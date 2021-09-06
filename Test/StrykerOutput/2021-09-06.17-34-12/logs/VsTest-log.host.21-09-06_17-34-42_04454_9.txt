@@ -1,0 +1,125 @@
+TpTrace Information: 0 : 23628, 1, 2021/09/06, 17:34:42.284, 59732764786, testhost.dll, DefaultEngineInvoker.Invoke: Testhost process started with args :[--port, 53159],[--endpoint, 127.0.0.1:053159],[--role, client],[--parentprocessid, 17660],[--diag, C:\Repos\mutantes\test\StrykerOutput\2021-09-06.17-34-12\logs\VsTest-log.host.21-09-06_17-34-42_04454_9.txt],[--tracelevel, 3],[--telemetryoptedin, false]
+TpTrace Information: 0 : 23628, 1, 2021/09/06, 17:34:42.291, 59732819046, testhost.dll, Setting up debug trace listener.
+TpTrace Information: 0 : 23628, 1, 2021/09/06, 17:34:42.293, 59732830733, testhost.dll, DefaultEngineInvoker.SetParentProcessExitCallback: Monitoring parent process with id: '17660'
+TpTrace Information: 0 : 23628, 1, 2021/09/06, 17:34:42.301, 59732919371, testhost.dll, DefaultEngineInvoker.GetConnectionInfo: Initialize communication on endpoint address: '127.0.0.1:053159'
+TpTrace Information: 0 : 23628, 1, 2021/09/06, 17:34:42.322, 59733127189, testhost.dll, SocketClient.Start: connecting to server endpoint: 127.0.0.1:053159
+TpTrace Information: 0 : 23628, 1, 2021/09/06, 17:34:42.331, 59733217704, testhost.dll, DefaultEngineInvoker.Invoke: Start Request Processing.
+TpTrace Information: 0 : 23628, 5, 2021/09/06, 17:34:42.333, 59733237365, testhost.dll, SocketClient.OnServerConnected: connected to server endpoint: 127.0.0.1:053159
+TpTrace Information: 0 : 23628, 10, 2021/09/06, 17:34:42.337, 59733273758, testhost.dll, DefaultEngineInvoker.StartProcessingAsync: Connected to vstest.console, Starting process requests.
+TpTrace Information: 0 : 23628, 9, 2021/09/06, 17:34:42.577, 59735679771, testhost.dll, TestRequestHandler.ProcessRequests: received message: (ProtocolVersion) -> 5
+TpTrace Information: 0 : 23628, 9, 2021/09/06, 17:34:42.626, 59736163202, testhost.dll, TestRequestHandler.ProcessRequests: received message: (TestExecution.Initialize) -> [
+  "C:\\Repos\\mutantes\\test\\bin\\Debug\\net5.0\\xunit.runner.visualstudio.dotnetcore.testadapter.dll"
+]
+TpTrace Information: 0 : 23628, 9, 2021/09/06, 17:34:42.626, 59736165788, testhost.dll, Execution Session Initialize.
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:42.646, 59736366321, testhost.dll, AssemblyResolver.ctor: Creating AssemblyResolver with searchDirectories C:\Repos\mutantes\test\bin\Debug\net5.0
+TpTrace Information: 0 : 23628, 9, 2021/09/06, 17:34:42.649, 59736398262, testhost.dll, TestRequestHandler.ProcessRequests: received message: (TestExecution.StartWithTests) -> {
+  "Tests": [
+    {
+      "Id": "a7df0c38-ad88-5312-e094-88b339031bf3",
+      "FullyQualifiedName": "Test.Tests.QuandoQtdValida_DeveObterTotal",
+      "DisplayName": "Test.Tests.QuandoQtdValida_DeveObterTotal",
+      "ExecutorUri": "executor://xunit/VsTestRunner2/netcoreapp",
+      "Source": "C:\\Repos\\mutantes\\test\\bin\\Debug\\net5.0\\Test.dll",
+      "CodeFilePath": "C:\\Repos\\mutantes\\test\\Tests.cs",
+      "LineNumber": 11,
+      "Properties": [
+        {
+          "Key": {
+            "Id": "XunitTestCase",
+            "Label": "xUnit.net Test Case",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": ":F:Test.Tests:QuandoQtdValida_DeveObterTotal:1:0:10cb821cbf1d4dd3ad1c0388743b7e7a"
+        }
+      ]
+    },
+    {
+      "Id": "631619af-9875-f0b3-b540-4db7bac5f3dd",
+      "FullyQualifiedName": "Test.Tests.QuandoQtdInvalida_NaoDeveObterTotal",
+      "DisplayName": "Test.Tests.QuandoQtdInvalida_NaoDeveObterTotal",
+      "ExecutorUri": "executor://xunit/VsTestRunner2/netcoreapp",
+      "Source": "C:\\Repos\\mutantes\\test\\bin\\Debug\\net5.0\\Test.dll",
+      "CodeFilePath": "C:\\Repos\\mutantes\\test\\Tests.cs",
+      "LineNumber": 24,
+      "Properties": [
+        {
+          "Key": {
+            "Id": "XunitTestCase",
+            "Label": "xUnit.net Test Case",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": ":F:Test.Tests:QuandoQtdInvalida_NaoDeveObterTotal:1:0:10cb821cbf1d4dd3ad1c0388743b7e7a"
+        }
+      ]
+    }
+  ],
+  "RunSettings": "<RunSettings>\r\n  <RunConfiguration>\r\n    <MaxCpuCount>1</MaxCpuCount>\r\n    <TestSessionTimeout>6905</TestSessionTimeout>\r\n    <DisableParallelization>true</DisableParallelization>\r\n    <DesignMode>false</DesignMode>\r\n    <BatchSize>1</BatchSize>\r\n    <TargetFrameworkVersion>.NETCoreApp,Version=v5.0</TargetFrameworkVersion>\r\n    <TargetPlatform>X64</TargetPlatform>\r\n    <CollectSourceInformation>True</CollectSourceInformation>\r\n  </RunConfiguration>\r\n  <InProcDataCollectionRunSettings>\r\n    <InProcDataCollectors>\r\n      <InProcDataCollector friendlyName=\"StrykerCoverage\" uri=\"https://stryker-mutator.io/\" codebase=\"C:\\Users\\2104779339\\.dotnet\\tools\\.store\\dotnet-stryker\\0.22.10\\dotnet-stryker\\0.22.10\\tools\\netcoreapp3.1\\any\\Stryker.DataCollector.dll\" assemblyQualifiedName=\"Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null\">\r\n        <Configuration>\r\n          <Parameters>\r\n            <Mutant id=\"2\" tests=\"a7df0c38-ad88-5312-e094-88b339031bf3,631619af-9875-f0b3-b540-4db7bac5f3dd\" />\r\n            <MutantControl name=\"Stryker5i27154sdaRl3mk.MutantControl\" />\r\n          </Parameters>\r\n        </Configuration>\r\n      </InProcDataCollector>\r\n    </InProcDataCollectors>\r\n  </InProcDataCollectionRunSettings>\r\n  <LoggerRunSettings>\r\n    <Loggers>\r\n      <Logger friendlyName=\"Console\" uri=\"logger://microsoft/TestPlatform/ConsoleLogger/v1\" assemblyQualifiedName=\"Microsoft.VisualStudio.TestPlatform.CommandLine.Internal.ConsoleLogger, vstest.console, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a\" codeBase=\"C:\\Users\\2104779339\\AppData\\Local\\Temp\\djb2zesq.2wk\\.vstest\\tools\\net451\\vstest.console.exe\" enabled=\"True\" />\r\n    </Loggers>\r\n  </LoggerRunSettings>\r\n</RunSettings>",
+  "TestExecutionContext": {
+    "FrequencyOfRunStatsChangeEvent": 1,
+    "RunStatsChangeEventTimeout": "00:00:01.5000000",
+    "InIsolation": false,
+    "KeepAlive": false,
+    "AreTestCaseLevelEventsRequired": false,
+    "IsDebug": false,
+    "TestCaseFilter": null,
+    "FilterOptions": null
+  },
+  "Package": null
+}
+TpTrace Information: 0 : 23628, 9, 2021/09/06, 17:34:42.650, 59736402820, testhost.dll, Execution started.
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:42.650, 59736406060, testhost.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Repos\mutantes\test\bin\Debug\net5.0
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:42.656, 59736467079, testhost.dll, AssemblyResolver.OnResolve: xunit.runner.visualstudio.dotnetcore.testadapter: Resolving assembly.
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:42.664, 59736548245, testhost.dll, AssemblyResolver.OnResolve: Resolved assembly: xunit.runner.visualstudio.dotnetcore.testadapter, from path: C:\Repos\mutantes\test\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:42.679, 59736699462, testhost.dll, AssemblyResolver.OnResolve: xunit.runner.utility.netcoreapp10: Resolving assembly.
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:42.691, 59736810999, testhost.dll, AssemblyResolver.OnResolve: Resolved assembly: xunit.runner.utility.netcoreapp10, from path: C:\Repos\mutantes\test\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:42.703, 59736935259, testhost.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Repos\mutantes\test\bin\Debug\net5.0
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:42.703, 59736938010, testhost.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Repos\mutantes\test\bin\Debug\net5.0
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:42.709, 59736994948, testhost.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: Xunit.Runner.VisualStudio.VsTestRunner
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:42.710, 59737008647, testhost.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Repos\mutantes\test\bin\Debug\net5.0
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:42.711, 59737010934, testhost.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Repos\mutantes\test\bin\Debug\net5.0
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:42.712, 59737029941, testhost.dll, TestExecutorService: Loaded the extensions
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:42.955, 59739457572, testhost.dll, [xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.3+1b45f5407b (64-bit .NET 5.0.8)
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:43.291, 59742819652, testhost.dll, AssemblyResolver.OnResolve: xunit.runner.reporters.netcoreapp10: Resolving assembly.
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:43.295, 59742850820, testhost.dll, AssemblyResolver.OnResolve: Resolved assembly: xunit.runner.reporters.netcoreapp10, from path: C:\Repos\mutantes\test\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:43.353, 59743431569, testhost.dll, [xUnit.net 00:00:00.40]   Starting:    Test
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:43.390, 59743800545, testhost.dll, Sending test run statistics
+TpTrace Error: 0 : 23628, 4, 2021/09/06, 17:34:43.443, 59744334337, testhost.dll, [xUnit.net 00:00:00.49]     Test.Tests.QuandoQtdValida_DeveObterTotal [FAIL]
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:43.444, 59744344146, testhost.dll, [xUnit.net 00:00:00.49]       System.Exception : Exception of type 'System.Exception' was thrown.
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:43.445, 59744352281, testhost.dll, [xUnit.net 00:00:00.49]       Stack Trace:
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:43.447, 59744371501, testhost.dll, [xUnit.net 00:00:00.50]            at Service.CarrinhoService.FecharCarrinho(String sku, Decimal valorUnitario, Int32 qtd)
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:43.447, 59744375150, testhost.dll, [xUnit.net 00:00:00.50]         C:\Repos\mutantes\test\Tests.cs(16,0): at Test.Tests.QuandoQtdValida_DeveObterTotal()
+TpTrace Warning: 0 : 23628, 4, 2021/09/06, 17:34:43.452, 59744429312, testhost.dll, No DataCollection Data set for the test case a7df0c38-ad88-5312-e094-88b339031bf3
+TpTrace Warning: 0 : 23628, 4, 2021/09/06, 17:34:43.455, 59744454746, testhost.dll, TestRunCache: InProgressTests is null
+TpTrace Warning: 0 : 23628, 4, 2021/09/06, 17:34:43.455, 59744457099, testhost.dll, TestRunCache: No test found corresponding to testResult 'Test.Tests.QuandoQtdValida_DeveObterTotal' in inProgress list.
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:43.455, 59744458685, testhost.dll, Sending test run statistics
+TpTrace Warning: 0 : 23628, 4, 2021/09/06, 17:34:43.463, 59744535530, testhost.dll, TestRunCache: InProgressTests is null
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:43.464, 59744540745, testhost.dll, Sending test run statistics
+TpTrace Information: 0 : 23628, 9, 2021/09/06, 17:34:43.470, 59744607701, testhost.dll, TestRequestHandler.ProcessRequests: received message: (TestExecution.Cancel) -> null
+TpTrace Error: 0 : 23628, 4, 2021/09/06, 17:34:43.471, 59744618006, testhost.dll, [xUnit.net 00:00:00.52]     Test.Tests.QuandoQtdInvalida_NaoDeveObterTotal [FAIL]
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:43.472, 59744623961, testhost.dll, [xUnit.net 00:00:00.52]       Assert.Throws() Failure
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:43.472, 59744627863, testhost.dll, [xUnit.net 00:00:00.52]       Expected: typeof(System.Exception)
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:43.473, 59744630907, testhost.dll, [xUnit.net 00:00:00.52]       Actual:   (No exception was thrown)
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:43.473, 59744634126, testhost.dll, [xUnit.net 00:00:00.52]       Stack Trace:
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:43.473, 59744637719, testhost.dll, [xUnit.net 00:00:00.52]         C:\Repos\mutantes\test\Tests.cs(29,0): at Test.Tests.QuandoQtdInvalida_NaoDeveObterTotal()
+TpTrace Warning: 0 : 23628, 4, 2021/09/06, 17:34:43.474, 59744643230, testhost.dll, No DataCollection Data set for the test case 631619af-9875-f0b3-b540-4db7bac5f3dd
+TpTrace Warning: 0 : 23628, 4, 2021/09/06, 17:34:43.474, 59744644347, testhost.dll, TestRunCache: InProgressTests is null
+TpTrace Warning: 0 : 23628, 4, 2021/09/06, 17:34:43.474, 59744645497, testhost.dll, TestRunCache: No test found corresponding to testResult 'Test.Tests.QuandoQtdInvalida_NaoDeveObterTotal' in inProgress list.
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:43.474, 59744647360, testhost.dll, Sending test run statistics
+TpTrace Warning: 0 : 23628, 4, 2021/09/06, 17:34:43.475, 59744655696, testhost.dll, TestRunCache: InProgressTests is null
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:43.479, 59744696989, testhost.dll, [xUnit.net 00:00:00.53]   Finished:    Test
+TpTrace Information: 0 : 23628, 4, 2021/09/06, 17:34:43.485, 59744759649, testhost.dll, Sending test run complete
+TpTrace Information: 0 : 23628, 9, 2021/09/06, 17:34:43.494, 59744843040, testhost.dll, TestRequestHandler.ProcessRequests: received message: (TestSession.Terminate) -> null
+TpTrace Information: 0 : 23628, 9, 2021/09/06, 17:34:43.494, 59744844713, testhost.dll, Session End message received from server. Closing the connection.
+TpTrace Information: 0 : 23628, 9, 2021/09/06, 17:34:43.494, 59744847587, testhost.dll, SocketClient.Stop: Stop communication from server endpoint: 127.0.0.1:053159
+TpTrace Information: 0 : 23628, 9, 2021/09/06, 17:34:43.494, 59744848865, testhost.dll, SocketClient: Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 23628, 1, 2021/09/06, 17:34:43.494, 59744848156, testhost.dll, SocketClient.Stop: Stop communication from server endpoint: 127.0.0.1:053159
+TpTrace Information: 0 : 23628, 1, 2021/09/06, 17:34:43.495, 59744851519, testhost.dll, SocketClient: Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 23628, 9, 2021/09/06, 17:34:43.494, 59744850488, testhost.dll, Closing the connection !
+TpTrace Information: 0 : 23628, 1, 2021/09/06, 17:34:43.495, 59744853261, testhost.dll, Testhost process exiting.
+TpTrace Information: 0 : 23628, 9, 2021/09/06, 17:34:43.495, 59744855773, testhost.dll, SocketClient.PrivateStop: Stop communication from server endpoint: 127.0.0.1:053159, error:

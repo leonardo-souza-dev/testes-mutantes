@@ -1,0 +1,64 @@
+TpTrace Information: 0 : 19756, 1, 2021/09/06, 17:08:09.465, 43804587848, testhost.dll, DefaultEngineInvoker.Invoke: Testhost process started with args :[--port, 52651],[--endpoint, 127.0.0.1:052651],[--role, client],[--parentprocessid, 22668],[--diag, C:\Repos\mutantes\Test\StrykerOutput\2021-09-06.17-07-42\logs\VsTest-log.host.21-09-06_17-08-08_75860_9.txt],[--tracelevel, 3],[--telemetryoptedin, false]
+TpTrace Information: 0 : 19756, 1, 2021/09/06, 17:08:09.475, 43804660401, testhost.dll, Setting up debug trace listener.
+TpTrace Information: 0 : 19756, 1, 2021/09/06, 17:08:09.477, 43804677730, testhost.dll, DefaultEngineInvoker.SetParentProcessExitCallback: Monitoring parent process with id: '22668'
+TpTrace Information: 0 : 19756, 1, 2021/09/06, 17:08:09.492, 43804822141, testhost.dll, DefaultEngineInvoker.GetConnectionInfo: Initialize communication on endpoint address: '127.0.0.1:052651'
+TpTrace Information: 0 : 19756, 1, 2021/09/06, 17:08:09.526, 43805167459, testhost.dll, SocketClient.Start: connecting to server endpoint: 127.0.0.1:052651
+TpTrace Information: 0 : 19756, 1, 2021/09/06, 17:08:09.541, 43805312498, testhost.dll, DefaultEngineInvoker.Invoke: Start Request Processing.
+TpTrace Information: 0 : 19756, 4, 2021/09/06, 17:08:09.541, 43805314041, testhost.dll, SocketClient.OnServerConnected: connected to server endpoint: 127.0.0.1:052651
+TpTrace Information: 0 : 19756, 10, 2021/09/06, 17:08:09.546, 43805366539, testhost.dll, DefaultEngineInvoker.StartProcessingAsync: Connected to vstest.console, Starting process requests.
+TpTrace Information: 0 : 19756, 9, 2021/09/06, 17:08:09.740, 43807309306, testhost.dll, TestRequestHandler.ProcessRequests: received message: (ProtocolVersion) -> 5
+TpTrace Information: 0 : 19756, 9, 2021/09/06, 17:08:09.827, 43808171305, testhost.dll, TestRequestHandler.ProcessRequests: received message: (TestDiscovery.Initialize) -> [
+  "C:\\Repos\\mutantes\\Test\\bin\\Debug\\net5.0\\xunit.runner.visualstudio.dotnetcore.testadapter.dll"
+]
+TpTrace Information: 0 : 19756, 9, 2021/09/06, 17:08:09.827, 43808174273, testhost.dll, Discovery Session Initialize.
+TpTrace Information: 0 : 19756, 9, 2021/09/06, 17:08:09.838, 43808287561, testhost.dll, TestRequestHandler.ProcessRequests: received message: (TestDiscovery.Start) -> {
+  "Package": null,
+  "AdapterSourceMap": {
+    "_none_": [
+      "C:\\Repos\\mutantes\\Test\\bin\\Debug\\net5.0\\Test.dll"
+    ]
+  },
+  "FrequencyOfDiscoveredTestsEvent": 1,
+  "DiscoveredTestEventTimeout": "00:00:01.5000000",
+  "RunSettings": "<RunSettings>\r\n  <RunConfiguration>\r\n    <MaxCpuCount>1</MaxCpuCount>\r\n    <DesignMode>false</DesignMode>\r\n    <BatchSize>1</BatchSize>\r\n    <TargetFrameworkVersion>.NETCoreApp,Version=v5.0</TargetFrameworkVersion>\r\n    <TargetPlatform>X64</TargetPlatform>\r\n    <CollectSourceInformation>True</CollectSourceInformation>\r\n  </RunConfiguration>\r\n  <LoggerRunSettings>\r\n    <Loggers>\r\n      <Logger friendlyName=\"Console\" uri=\"logger://microsoft/TestPlatform/ConsoleLogger/v1\" assemblyQualifiedName=\"Microsoft.VisualStudio.TestPlatform.CommandLine.Internal.ConsoleLogger, vstest.console, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a\" codeBase=\"C:\\Users\\2104779339\\AppData\\Local\\Temp\\j1itjj3l.4pa\\.vstest\\tools\\net451\\vstest.console.exe\" enabled=\"True\" />\r\n    </Loggers>\r\n  </LoggerRunSettings>\r\n</RunSettings>",
+  "TestCaseFilter": null
+}
+TpTrace Information: 0 : 19756, 9, 2021/09/06, 17:08:09.839, 43808291361, testhost.dll, Discovery started.
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.848, 43808386050, testhost.dll, AssemblyResolver.ctor: Creating AssemblyResolver with searchDirectories C:\Repos\mutantes\Test\bin\Debug\net5.0
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.853, 43808433683, testhost.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Repos\mutantes\Test\bin\Debug\net5.0
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.860, 43808500763, testhost.dll, AssemblyResolver.OnResolve: xunit.runner.visualstudio.dotnetcore.testadapter: Resolving assembly.
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.866, 43808569412, testhost.dll, AssemblyResolver.OnResolve: Resolved assembly: xunit.runner.visualstudio.dotnetcore.testadapter, from path: C:\Repos\mutantes\Test\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.901, 43808911959, testhost.dll, AssemblyResolver.OnResolve: xunit.runner.utility.netcoreapp10: Resolving assembly.
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.906, 43808963429, testhost.dll, AssemblyResolver.OnResolve: Resolved assembly: xunit.runner.utility.netcoreapp10, from path: C:\Repos\mutantes\Test\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.913, 43809031173, testhost.dll, AssemblyResolver.OnResolve: System.ComponentModel.Primitives.resources: Resolving assembly.
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.913, 43809033873, testhost.dll, AssemblyResolver.OnResolve: System.ComponentModel.Primitives.resources: Failed to load assembly.
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.913, 43809040258, testhost.dll, AssemblyResolver.OnResolve: System.ComponentModel.Primitives.resources: Resolving assembly.
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.914, 43809041622, testhost.dll, AssemblyResolver.OnResolve: System.ComponentModel.Primitives.resources: Resolved from cache.
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.916, 43809064084, testhost.dll, AssemblyResolver.OnResolve: System.ComponentModel.Primitives.resources: Resolving assembly.
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.916, 43809065412, testhost.dll, AssemblyResolver.OnResolve: System.ComponentModel.Primitives.resources: Resolved from cache.
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.925, 43809153545, testhost.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: Xunit.Runner.VisualStudio.VsTestRunner
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.927, 43809176413, testhost.dll, TestDiscoveryManager.DoDiscovery: Background test discovery started.
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.929, 43809194855, testhost.dll, TestDiscoveryManager: Discovering tests from sources C:\Repos\mutantes\Test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.941, 43809318969, testhost.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Repos\mutantes\Test\bin\Debug\net5.0
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.942, 43809321193, testhost.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Repos\mutantes\Test\bin\Debug\net5.0
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.981, 43809718293, testhost.dll, PEReaderHelper.GetAssemblyType: Determined assemblyType:'Managed' for source: 'C:\Repos\mutantes\Test\bin\Debug\net5.0\Test.dll'
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.999, 43809892556, testhost.dll, TestDiscoveryManager.RunMessage: calling TestRunMessage(Informational, [xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.3+1b45f5407b (64-bit .NET 5.0.8)) callback.
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:09.999, 43809895113, testhost.dll, [xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.3+1b45f5407b (64-bit .NET 5.0.8)
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:10.680, 43816704321, testhost.dll, AssemblyResolver.OnResolve: xunit.runner.reporters.netcoreapp10: Resolving assembly.
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:10.685, 43816752174, testhost.dll, AssemblyResolver.OnResolve: Resolved assembly: xunit.runner.reporters.netcoreapp10, from path: C:\Repos\mutantes\Test\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:10.733, 43817237896, testhost.dll, TestDiscoveryManager.RunMessage: calling TestRunMessage(Informational, [xUnit.net 00:00:00.74]   Discovering: Test) callback.
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:10.734, 43817240877, testhost.dll, [xUnit.net 00:00:00.74]   Discovering: Test
+TpTrace Information: 0 : 19756, 14, 2021/09/06, 17:08:10.795, 43817854595, testhost.dll, Test Cases found 
+TpTrace Information: 0 : 19756, 14, 2021/09/06, 17:08:10.826, 43818163871, testhost.dll, Test Cases found 
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:10.829, 43818191400, testhost.dll, TestDiscoveryManager.RunMessage: calling TestRunMessage(Informational, [xUnit.net 00:00:00.84]   Discovered:  Test) callback.
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:10.829, 43818194212, testhost.dll, [xUnit.net 00:00:00.84]   Discovered:  Test
+TpTrace Information: 0 : 19756, 5, 2021/09/06, 17:08:10.840, 43818309853, testhost.dll, Discover Finished.
+TpTrace Information: 0 : 19756, 9, 2021/09/06, 17:08:10.878, 43818690505, testhost.dll, TestRequestHandler.ProcessRequests: received message: (TestSession.Terminate) -> null
+TpTrace Information: 0 : 19756, 9, 2021/09/06, 17:08:10.879, 43818692450, testhost.dll, Session End message received from server. Closing the connection.
+TpTrace Information: 0 : 19756, 9, 2021/09/06, 17:08:10.879, 43818698229, testhost.dll, SocketClient.Stop: Stop communication from server endpoint: 127.0.0.1:052651
+TpTrace Information: 0 : 19756, 9, 2021/09/06, 17:08:10.879, 43818700448, testhost.dll, SocketClient: Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 19756, 1, 2021/09/06, 17:08:10.879, 43818698416, testhost.dll, SocketClient.Stop: Stop communication from server endpoint: 127.0.0.1:052651
+TpTrace Information: 0 : 19756, 9, 2021/09/06, 17:08:10.880, 43818704375, testhost.dll, Closing the connection !
+TpTrace Information: 0 : 19756, 1, 2021/09/06, 17:08:10.880, 43818705433, testhost.dll, SocketClient: Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 19756, 9, 2021/09/06, 17:08:10.881, 43818713511, testhost.dll, SocketClient.PrivateStop: Stop communication from server endpoint: 127.0.0.1:052651, error:
+TpTrace Information: 0 : 19756, 1, 2021/09/06, 17:08:10.881, 43818714854, testhost.dll, Testhost process exiting.

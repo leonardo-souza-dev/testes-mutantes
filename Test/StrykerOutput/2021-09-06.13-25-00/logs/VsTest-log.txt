@@ -1,0 +1,834 @@
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.382, 51743737410, vstest.console.exe, AssemblyResolver.ctor: Creating AssemblyResolver with searchDirectories C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions,C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.387, 51743776148, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions,C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.387, 51743779193, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions,C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.387, 51743779980, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions,C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.387, 51743780604, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions,C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.391, 51743820466, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.Extensions.BlameDataCollector: Resolving assembly.
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.391, 51743821306, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.Extensions.BlameDataCollector: Searching in: 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions'.
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.393, 51743833681, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.Extensions.BlameDataCollector: Loading assembly 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions\Microsoft.TestPlatform.Extensions.BlameDataCollector.dll'.
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.404, 51743948834, vstest.console.exe, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.TestPlatform.Extensions.BlameDataCollector, from path: C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions\Microsoft.TestPlatform.Extensions.BlameDataCollector.dll
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.409, 51743998927, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider: Resolving assembly.
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.409, 51743999728, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider: Searching in: 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions'.
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.410, 51744008480, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider: Loading assembly 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions\Microsoft.TestPlatform.TestHostRuntimeProvider.dll'.
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.412, 51744027371, vstest.console.exe, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.TestPlatform.TestHostRuntimeProvider, from path: C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions\Microsoft.TestPlatform.TestHostRuntimeProvider.dll
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.414, 51744045693, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger: Resolving assembly.
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.414, 51744046753, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger: Searching in: 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions'.
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.415, 51744055184, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger: Loading assembly 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.dll'.
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.416, 51744068946, vstest.console.exe, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger, from path: C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.dll
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.417, 51744076851, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger: Resolving assembly.
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.417, 51744077521, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger: Searching in: 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions'.
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.418, 51744086421, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger: Loading assembly 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.dll'.
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.419, 51744099630, vstest.console.exe, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger, from path: C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.dll
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.469, 51744595985, vstest.console.exe, Trying to connect to server on port : 62079
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.476, 51744671486, vstest.console.exe, Trying to connect to server on socket : 127.0.0.1:62079 
+TpTrace Information: 0 : 22588, 4, 2021/09/06, 13:25:15.503, 51744934352, vstest.console.exe, Connected to the server successfully 
+TpTrace Information: 0 : 22588, 4, 2021/09/06, 13:25:15.503, 51744935510, vstest.console.exe, Using the buffer size of 16384 bytes
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.667, 51746574257, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (ProtocolVersion) -> 5
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.688, 51746783063, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (Extensions.Initialize) -> [
+  "C:\\repos\\mutantes\\test\\bin\\Debug\\net5.0"
+]
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.704, 51746943771, vstest.console.exe, TestRequestManager.InitializeExtensions: Initialize extensions started.
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.705, 51746958946, vstest.console.exe, TestRequestManager.InitializeExtensions: Initialize extensions completed.
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:15.710, 51747004173, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestDiscovery.Start) -> {
+  "Sources": [
+    "C:\\repos\\mutantes\\test\\bin\\Debug\\net5.0\\Test.dll"
+  ],
+  "RunSettings": "<RunSettings>\r\n <RunConfiguration>\r\n\r\n  <MaxCpuCount>1</MaxCpuCount>\r\n\r\n\r\n<DesignMode>false</DesignMode>\r\n<BatchSize>1</BatchSize>\r\n </RunConfiguration>\r\n\r\n</RunSettings>",
+  "TestPlatformOptions": null
+}
+TpTrace Information: 0 : 22588, 6, 2021/09/06, 13:25:15.716, 51747066918, vstest.console.exe, TestRequestManager.DiscoverTests: Discovery tests started.
+TpTrace Information: 0 : 22588, 6, 2021/09/06, 13:25:15.851, 51748416064, vstest.console.exe, AssemblyMetadataProvider.GetFrameWork: Determined framework:'.NETCoreApp,Version=v5.0' for source: 'C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll'
+TpTrace Information: 0 : 22588, 6, 2021/09/06, 13:25:15.851, 51748418293, vstest.console.exe, Determined framework for all sources: .NETCoreApp,Version=v5.0
+TpTrace Information: 0 : 22588, 6, 2021/09/06, 13:25:15.853, 51748441269, vstest.console.exe, AssemblyMetadataProvider.GetArchitecture: Determined architecture:AnyCPU info for assembly: C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 22588, 6, 2021/09/06, 13:25:15.854, 51748451683, vstest.console.exe, Determined platform for all sources: X64
+TpTrace Information: 0 : 22588, 6, 2021/09/06, 13:25:15.858, 51748484726, vstest.console.exe, Compatible sources list : 
+TpTrace Information: 0 : 22588, 6, 2021/09/06, 13:25:15.858, 51748485382, vstest.console.exe, C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 22588, 6, 2021/09/06, 13:25:15.864, 51748550295, vstest.console.exe, TestRequestManager.DiscoverTests: Synchronization context taken
+TpTrace Information: 0 : 22588, 6, 2021/09/06, 13:25:15.941, 51749313809, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: Resolving assembly.
+TpTrace Information: 0 : 22588, 6, 2021/09/06, 13:25:15.941, 51749315250, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: Searching in: 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions'.
+TpTrace Information: 0 : 22588, 6, 2021/09/06, 13:25:15.941, 51749321989, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: Loading assembly 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions\Microsoft.TestPlatform.TestHostRuntimeProvider.dll'.
+TpTrace Information: 0 : 22588, 6, 2021/09/06, 13:25:15.942, 51749322972, vstest.console.exe, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.TestPlatform.TestHostRuntimeProvider, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, from path: C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions\Microsoft.TestPlatform.TestHostRuntimeProvider.dll
+TpTrace Information: 0 : 22588, 6, 2021/09/06, 13:25:15.942, 51749329135, vstest.console.exe, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DefaultTestHostManager
+TpTrace Information: 0 : 22588, 6, 2021/09/06, 13:25:15.943, 51749335084, vstest.console.exe, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DotnetTestHostManager
+TpTrace Information: 0 : 22588, 6, 2021/09/06, 13:25:15.946, 51749370903, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 22588, 6, 2021/09/06, 13:25:15.957, 51749478286, vstest.console.exe, DiscoveryRequest.DiscoverAsync: Started.
+TpTrace Information: 0 : 22588, 7, 2021/09/06, 13:25:15.963, 51749542232, vstest.console.exe, SocketServer.Start: Listening on endpoint : 127.0.0.1:54240
+TpTrace Information: 0 : 22588, 7, 2021/09/06, 13:25:16.554, 51755445811, vstest.console.exe, DiscoveryRequest.SendDiscoveryMessage: Completed.
+TpTrace Information: 0 : 22588, 9, 2021/09/06, 13:25:16.563, 51755533101, vstest.console.exe, DiscoveryRequest.SendDiscoveryMessage: Completed.
+TpTrace Information: 0 : 22588, 9, 2021/09/06, 13:25:16.712, 51757026799, vstest.console.exe, DiscoveryRequest.SendDiscoveryMessage: Completed.
+TpTrace Information: 0 : 22588, 9, 2021/09/06, 13:25:20.642, 51796321157, vstest.console.exe, DiscoveryRequest.SendDiscoveryMessage: Completed.
+TpTrace Information: 0 : 22588, 9, 2021/09/06, 13:25:20.732, 51797229292, vstest.console.exe, DiscoveryRequest.SendDiscoveredTests: Completed.
+TpTrace Information: 0 : 22588, 9, 2021/09/06, 13:25:20.733, 51797234971, vstest.console.exe, DiscoveryRequest.SendDiscoveryMessage: Completed.
+TpTrace Warning: 0 : 22588, 9, 2021/09/06, 13:25:20.840, 51798303088, vstest.console.exe, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Warning: 0 : 22588, 10, 2021/09/06, 13:25:20.840, 51798305136, vstest.console.exe, TestHostManagerCallbacks.ErrorReceivedCallback Test host standard error line: 
+TpTrace Information: 0 : 22588, 9, 2021/09/06, 13:25:20.845, 51798356341, vstest.console.exe, TestHostManagerCallbacks.ExitCallBack: Testhost processId: 22804 exited with exitcode: 0 error: ''
+TpTrace Information: 0 : 22588, 9, 2021/09/06, 13:25:20.846, 51798359947, vstest.console.exe, TestRequestSender.OnClientProcessExit: Test host process exited. Standard error: 
+TpTrace Information: 0 : 22588, 9, 2021/09/06, 13:25:20.846, 51798361667, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:54240
+TpTrace Information: 0 : 22588, 9, 2021/09/06, 13:25:20.846, 51798362199, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 22588, 9, 2021/09/06, 13:25:20.861, 51798515436, vstest.console.exe, DiscoveryRequest.SendDiscoveredTests: Completed.
+TpTrace Information: 0 : 22588, 9, 2021/09/06, 13:25:20.879, 51798694147, vstest.console.exe, DiscoveryRequest.DiscoveryComplete: Completed.
+TpTrace Information: 0 : 22588, 9, 2021/09/06, 13:25:20.879, 51798696402, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:54240
+TpTrace Information: 0 : 22588, 9, 2021/09/06, 13:25:20.879, 51798697035, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 22588, 6, 2021/09/06, 13:25:20.879, 51798698589, vstest.console.exe, DiscoveryRequest.Dispose: Completed.
+TpTrace Information: 0 : 22588, 6, 2021/09/06, 13:25:20.880, 51798699464, vstest.console.exe, TestRequestManager.DiscoverTests: Discovery tests completed.
+TpTrace Information: 0 : 22588, 9, 2021/09/06, 13:25:20.880, 51798700378, vstest.console.exe, SocketServer.PrivateStop: Stop server endPoint: 127.0.0.1:54240 error: 
+TpTrace Information: 0 : 22588, 9, 2021/09/06, 13:25:20.881, 51798709345, vstest.console.exe, SocketServer.Stop: Raise disconnected event endPoint: 127.0.0.1:54240 error: 
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:20.887, 51798775470, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestSession.Terminate) -> null
+TpTrace Information: 0 : 22588, 1, 2021/09/06, 13:25:20.887, 51798777103, vstest.console.exe, DesignModeClient: Session End message received from server. Closing the connection.
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:21.271, 51802620062, vstest.console.exe, AssemblyResolver.ctor: Creating AssemblyResolver with searchDirectories C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions,C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:21.275, 51802653402, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions,C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:21.275, 51802654905, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions,C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:21.275, 51802655895, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions,C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:21.275, 51802657130, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions,C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:21.279, 51802694923, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.Extensions.BlameDataCollector: Resolving assembly.
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:21.279, 51802695869, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.Extensions.BlameDataCollector: Searching in: 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions'.
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:21.280, 51802705004, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.Extensions.BlameDataCollector: Loading assembly 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions\Microsoft.TestPlatform.Extensions.BlameDataCollector.dll'.
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:21.291, 51802817462, vstest.console.exe, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.TestPlatform.Extensions.BlameDataCollector, from path: C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions\Microsoft.TestPlatform.Extensions.BlameDataCollector.dll
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:21.295, 51802853327, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider: Resolving assembly.
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:21.295, 51802854097, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider: Searching in: 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions'.
+TpTrace Information: 0 : 23428, 1, 2021/09/06, 13:25:21.298, 51802901303, vstest.console.exe, AssemblyResolver.ctor: Creating AssemblyResolver with searchDirectories C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions,C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451
+TpTrace Information: 0 : 23428, 1, 2021/09/06, 13:25:21.302, 51802925278, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions,C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451
+TpTrace Information: 0 : 23428, 1, 2021/09/06, 13:25:21.302, 51802926307, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions,C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451
+TpTrace Information: 0 : 23428, 1, 2021/09/06, 13:25:21.302, 51802926933, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions,C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451
+TpTrace Information: 0 : 23428, 1, 2021/09/06, 13:25:21.302, 51802927552, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions,C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451
+TpTrace Information: 0 : 23428, 1, 2021/09/06, 13:25:21.307, 51802970727, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.Extensions.BlameDataCollector: Resolving assembly.
+TpTrace Information: 0 : 23428, 1, 2021/09/06, 13:25:21.307, 51802972438, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.Extensions.BlameDataCollector: Searching in: 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions'.
+TpTrace Information: 0 : 23428, 1, 2021/09/06, 13:25:21.310, 51803000825, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.Extensions.BlameDataCollector: Loading assembly 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions\Microsoft.TestPlatform.Extensions.BlameDataCollector.dll'.
+TpTrace Information: 0 : 23428, 1, 2021/09/06, 13:25:21.322, 51803122795, vstest.console.exe, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.TestPlatform.Extensions.BlameDataCollector, from path: C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions\Microsoft.TestPlatform.Extensions.BlameDataCollector.dll
+TpTrace Information: 0 : 23428, 1, 2021/09/06, 13:25:21.327, 51803175091, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider: Resolving assembly.
+TpTrace Information: 0 : 23428, 1, 2021/09/06, 13:25:21.327, 51803176326, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlTpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:21.348, 51803379325, vstest.console.exe, Trying to connect to server on port : 62784
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:21.349, 51803396578, vstest.console.exe, Trying to connect to server on socket : 127.0.0.1:62784 
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:21.361, 51803517215, vstest.console.exe, Connected to the server successfully 
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:21.361, 51803518539, vstest.console.exe, Using the buffer size of 16384 bytes
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:21.515, 51805056247, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (ProtocolVersion) -> 5
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:21.529, 51805196178, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (Extensions.Initialize) -> [
+  "C:\\repos\\mutantes\\test\\bin\\Debug\\net5.0"
+]
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:21.539, 51805296983, vstest.console.exe, TestRequestManager.InitializeExtensions: Initialize extensions started.
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:21.541, 51805313637, vstest.console.exe, TestRequestManager.InitializeExtensions: Initialize extensions completed.
+TpTrace Information: 0 : 21880, 1, 2021/09/06, 13:25:30.654, 51896451889, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.GetTestRunnerProcessStartInfoForRunSelected) -> {
+  "Sources": null,
+  "TestCases": [
+    {
+      "Id": "e49c0c5f-aeee-881d-ede3-713af97061b1",
+      "FullyQualifiedName": "Test.Tests.QuandoPassarSku_DeveCalcularFrete",
+      "DisplayName": "Test.Tests.QuandoPassarSku_DeveCalcularFrete",
+      "ExecutorUri": "executor://xunit/VsTestRunner2/netcoreapp",
+      "Source": "C:\\repos\\mutantes\\test\\bin\\Debug\\net5.0\\Test.dll",
+      "CodeFilePath": "C:\\repos\\mutantes\\test\\Tests.cs",
+      "LineNumber": 11,
+      "Properties": [
+        {
+          "Key": {
+            "Id": "XunitTestCase",
+            "Label": "xUnit.net Test Case",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": ":F:Test.Tests:QuandoPassarSku_DeveCalcularFrete:1:0:21063f4de59b4170b07b21f1ce764cf3"
+        }
+      ]
+    }
+  ],
+  "RunSettings": "<RunSettings>\r\n <RunConfiguration>\r\n\r\n  <MaxCpuCount>1</MaxCpuCount>\r\n<TestSessionTimeout>9027</TestSessionTimeout>\r\n\r\n<DisableParallelization>true</DisableParallelization>\r\n<DesignMode>false</DesignMode>\r\n<BatchSize>1</BatchSize>\r\n </RunConfiguration>\r\n<InProcDataCollectionRunSettings><InProcDataCollectors><InProcDataCollector friendlyName=\"StrykerCoverage\" uri=\"https://stryker-mutator.io/\" codebase=\"C:\\Users\\2104779339\\.dotnet\\tools\\.store\\dotnet-stryker\\0.22.10\\dotnet-stryker\\0.22.10\\tools\\netcoreapp3.1\\any\\Stryker.DataCollector.dll\" assemblyQualifiedName=\"Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null\">\r\n<Configuration><Parameters><Mutant id='12' tests='e49c0c5f-aeee-881d-ede3-713af97061b1'/><MutantControl  name='StrykerpCRFgL51PCcFpYG.MutantControl'/></Parameters></Configuration></InProcDataCollector></InProcDataCollectors></InProcDataCollectionRunSettings>\r\n</RunSettings>",
+  "KeepAlive": false,
+  "DebuggingEnabled": false,
+  "TestPlatformOptions": null,
+  "TestSessionInfo": null
+}TTpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.685, 51896762458, vstest.console.exe, TestRequestManager.RunTests: run tests started.TTpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.806, 51897965479, vstest.console.exe, AssemblyMetadataProvider.GetFrameWork: Determined framework:'.NETCoreApp,Version=v5.0' for source: 'C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll'
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.806, 51897967205, vstest.console.exe, Determined framework for all sources: .NETCoreApp,Version=v5.0
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.808, 51897993714, vstest.console.exe, AssemblyMetadataProvider.GetArchitecture: Determined architecture:AnyCPU info for assembly: C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.810, 51898006467, vstest.console.exe, Determined platform for all sources: X64
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.814, 51898045901, vstest.console.exe, Compatible sources list : 
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.814, 51898046864, vstest.console.exe, C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.819, 51898095031, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.822, 51898124733, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral: Resolving assembly.
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.822, 51898125894, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral: Searching in: 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions'.
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.822, 51898126988, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral: Assembly path does not exist: 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions\Microsoft.VisualStudio.TestPlatform.Fakes.dll', returning.
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.822, 51898127872, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral: Assembly path does not exist: 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions\Microsoft.VisualStudio.TestPlatform.Fakes.exe', returning.
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.822, 51898128391, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral: Searching in: 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451'.
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.822, 51898129174, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral: Assembly path does not exist: 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Microsoft.VisualStudio.TestPlatform.Fakes.dll', returning.
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.822, 51898129998, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral: Assembly path does not exist: 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Microsoft.VisualStudio.TestPlatform.Fakes.exe', returning.
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.822, 51898130523, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral: Failed to load assembly.
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.832, 51898228026, vstest.console.exe, Failed to create newly implemented Fakes Configurator. Reason:System.IO.FileNotFoundException: Não foi possível carregar arquivo ou assembly 'Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral' ou uma de suas dependências. O sistema não pode encontrar o arquivo especificado.
+Nome do arquivo: 'Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral'
+   em System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   em System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   em System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   em System.Reflection.Assembly.Load(AssemblyName assemblyRef)
+   em Microsoft.VisualStudio.TestPlatform.Common.Utilities.FakesUtilities.TryGetFakesCrossPlatformDataCollectorConfigurator()
+
+AVI: o log de associações de assembly está desativado.
+Para ativar o log de  falhas de assembly, defina o valor do Registro [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) como 1.
+Observação: há alguma penalidade para o desempenho associada ao log de falha de associação de assembly.
+Para desativar esse recurso, remova o valor do Registro [HKLM\Software\Microsoft\Fusion!EnableLog].
+ TTpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.909, 51898998171, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: Resolving assembly.
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.909, 51898999574, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: Searching in: 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions'.
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.910, 51899005308, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: Loading assembly 'C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions\Microsoft.TestPlatform.TestHostRuntimeProvider.dll'.
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.910, 51899006316, vstest.console.exe, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.TestPlatform.TestHostRuntimeProvider, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, from path: C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\Extensions\Microsoft.TestPlatform.TestHostRuntimeProvider.dll
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.910, 51899012267, vstest.console.exe, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DefaultTestHostManager
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.911, 51899017877, vstest.console.exe, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DotnetTestHostManager
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.918, 51899086567, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.926, 51899174409, vstest.console.exe, TestRunRequest.ExecuteAsync: Starting run with settings:TestRunCriteria:
+   KeepAlive=False,FrequencyOfRunStatsChangeEvent=1,RunStatsChangeEventTimeout=00:00:01.5000000,TestCaseFilter=,TestExecutorLauncher=Microsoft.VisualStudio.TestPlatform.Client.DesignMode.DesignModeTestHostLauncher
+   Settingsxml=<RunSettings>
+  <RunConfiguration>
+    <MaxCpuCount>1</MaxCpuCount>
+    <TestSessionTimeout>9027</TestSessionTimeout>
+    <DisableParallelization>true</DisableParallelization>
+    <DesignMode>false</DesignMode>
+    <BatchSize>1</BatchSize>
+    <TargetFrameworkVersion>.NETCoreApp,Version=v5.0</TargetFrameworkVersion>
+    <TargetPlatform>X64</TargetPlatform>
+    <CollectSourceInformation>True</CollectSourceInformation>
+  </RunConfiguration>
+  <InProcDataCollectionRunSettings>
+    <InProcDataCollectors>
+      <InProcDataCollector friendlyName="StrykerCoverage" uri="https://stryker-mutator.io/" codebase="C:\Users\2104779339\.dotnet\tools\.store\dotnet-stryker\0.22.10\dotnet-stryker\0.22.10\tools\netcoreapp3.1\any\Stryker.DataCollector.dll" assemblyQualifiedName="Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null">
+        <Configuration>
+          <Parameters>
+            <Mutant id="12" tests="e49c0c5f-aeee-881d-ede3-713af97061b1" />
+            <MutantControl name="StrykerpCRFgL51PCcFpYG.MutantControl" />
+          </Parameters>
+        </Configuration>
+      </InProcDataCollector>
+    </InProcDataCollectors>
+  </InProcDataCollectionRunSettings>
+  <LoggerRunSettings>
+    <Loggers>
+      <Logger friendlyName="Console" uri="logger://microsoft/TestPlatform/ConsoleLogger/v1" assemblyQualifiedName="Microsoft.VisualStudio.TestPlatform.CommandLine.Internal.ConsoleLogger, vstest.console, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" codeBase="C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\vstest.console.exe" enabled="True" />
+    </Loggers>
+  </LoggerRunSettings>
+</RunSettings>
+
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.932, 51899231021, vstest.console.exe, ProxyParallelExecutionManager: Triggering test run for next source: C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:30.933, 51899236233, vstest.console.exe, TestRunRequest.ExecuteAsync: Started.
+TpTrace Information: 0 : 21880, 9, 2021/09/06, 13:25:30.939, 51899300046, vstest.console.exe, SocketServer.Start: Listening on endpoint : 127.0.0.1:61549TpTpTrace Information: 0 : 21880, 1, 2021/09/06, 13:25:30.964, 51899553742, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.CustomTestHostLaunchCallback) -> {
+  "HostProcessId": 18600,
+  "ErrorMessage": null
+}TpTpTrace Information: 0 : 21880, 9, 2021/09/06, 13:25:31.394, 51903851153, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.TpTpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:31.404, 51903948618, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:31.628, 51906191064, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:32.074, 51910645040, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:32.182, 51911733876, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:32.226, 51912174034, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:32.227, 51912178749, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Warning: 0 : 16752, 11, 2021/09/06, 13:25:32.335, 51913256099, vstest.console.exe, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:32.360, 51913509200, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 16752, 4, 2021/09/06, 13:25:32.393, 51913842026, vstest.console.exe, TestHostManagerCallbacks.ExitCallBack: Testhost processId: 21076 exited with exitcode: 0 error: ''
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:32.397, 51913883979, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.GetTestRunnerProcessStartInfoForRunSelected) -> {
+  "Sources": null,
+  "TestCases": [
+    {
+      "Id": "e49c0c5f-aeee-881d-ede3-713af97061b1",
+      "FullyQualifiedName": "Test.Tests.QuandoPassarSku_DeveCalcularFrete",
+      "DisplayName": "Test.Tests.QuandoPassarSku_DeveCalcularFrete",
+      "ExecutorUri": "executor://xunit/VsTestRunner2/netcoreapp",
+      "Source": "C:\\repos\\mutantes\\test\\bin\\Debug\\net5.0\\Test.dll",
+      "CodeFilePath": "C:\\repos\\mutantes\\test\\Tests.cs",
+      "LineNumber": 11,
+      "Properties": [
+        {
+          "Key": {
+            "Id": "XunitTestCase",
+            "Label": "xUnit.net Test Case",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": ":F:Test.Tests:QuandoPassarSku_DeveCalcularFrete:1:0:21063f4de59b4170b07b21f1ce764cf3"
+        }
+      ]
+    }
+  ],
+  "RunSettings": "<RunSettings>\r\n <RunConfiguration>\r\n\r\n  <MaxCpuCount>1</MaxCpuCount>\r\n<TestSessionTimeout>9027</TestSessionTimeout>\r\n\r\n<DisableParallelization>true</DisableParallelization>\r\n<DesignMode>false</DesignMode>\r\n<BatchSize>1</BatchSize>\r\n </RunConfiguration>\r\n<InProcDataCollectionRunSettings><InProcDataCollectors><InProcDataCollector friendlyName=\"StrykerCoverage\" uri=\"https://stryker-mutator.io/\" codebase=\"C:\\Users\\2104779339\\.dotnet\\tools\\.store\\dotnet-stryker\\0.22.10\\dotnet-stryker\\0.22.10\\tools\\netcoreapp3.1\\any\\Stryker.DataCollector.dll\" assemblyQualifiedName=\"Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null\">\r\n<Configuration><Parameters><Mutant id='8' tests='e49c0c5f-aeee-881d-ede3-713af97061b1'/><MutantControl  name='StrykerpCRFgL51PCcFpYG.MutantControl'/></Parameters></Configuration></InProcDataCollector></InProcDataCollectors></InProcDataCollectionRunSettings>\r\n</RunSettings>",
+  "KeepAlive": false,
+  "DebuggingEnabled": false,
+  "TestPlatformOptions": null,
+  "TestSessionInfo": null
+}
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:32.398, 51913887280, vstest.console.exe, TestRequestManager.RunTests: run tests started.
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:32.398, 51913891528, vstest.console.exe, AssemblyMetadataProvider.GetFrameWork: Determined framework:'.NETCoreApp,Version=v5.0' for source: 'C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll'
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:32.398, 51913892859, vstest.console.exe, Determined framework for all sources: .NETCoreApp,Version=v5.0
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:32.399, 51913900448, vstest.console.exe, AssemblyMetadataProvider.GetArchitecture: Determined architecture:AnyCPU info for assembly: C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:32.399, 51913901740, vstest.console.exe, Determined platform for all sources: X64
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:32.399, 51913902486, vstest.console.exe, TestRunRequest:TestRunComplete: Completed.
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:32.399, 51913903014, vstest.console.exe, Compatible sources list : 
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:32.399, 51913904117, vstest.console.exe, C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:32.400, 51913906740, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:32.400, 51913906739, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:61548
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:32.400, 51913908508, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:32.400, 51913911700, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral: Resolving assembly.
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:32.400, 51913912622, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral: Resolved from cache.
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:32.400, 51913913360, vstest.console.exe, SocketServer.PrivateStop: Stop server endPoint: 127.0.0.1:61548 error: 
+TpTrace Information: 0 : 16752, 7, 2021/09/06, 13:25:32.400, 51913913683, vstest.console.exe, TestRunRequest.Dispose: Completed.
+TpTrace Information: 0 : 16752, 7, 2021/09/06, 13:25:32.401, 51913915289, vstest.console.exe, TestRequestManager.RunTests: run tests completed.
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:32.401, 51913916179, vstest.console.exe, Failed to create newly implemented Fakes Configurator. Reason:System.IO.FileNotFoundException: Não foi possível carregar arquivo ou assembly 'Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral' ou uma de suas dependências. O sistema não pode encontrar o arquivo especificado.
+Nome do arquivo: 'Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral'
+   em System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   em System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   em System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   em System.Reflection.Assembly.Load(AssemblyName assemblyRef)
+   em Microsoft.VisualStudio.TestPlatform.Common.Utilities.FakesUtilities.TryGetFakesCrossPlatformDataCollectorConfigurator()
+
+AVI: o log de associações de assembly está desativado.
+Para ativar o log de  falhas de assembly, defina o valor do Registro [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) como 1.
+Observação: há alguma penalidade para o desempenho associada ao log de falha de associação de assembly.
+Para desativar esse recurso, remova o valor do Registro [HKLM\Software\Microsoft\Fusion!EnableLog].
+ 
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:32.401, 51913917820, vstest.console.exe, SocketServer.Stop: Raise disconnected event endPoint: 127.0.0.1:61548 error: 
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:32.402, 51913930290, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:32.402, 51913934182, vstest.console.exe, TestRunRequest.ExecuteAsync: Starting run with settings:TestRunCriteria:
+   KeepAlive=False,FrequencyOfRunStatsChangeEvent=1,RunStatsChangeEventTimeout=00:00:01.5000000,TestCaseFilter=,TestExecutorLauncher=Microsoft.VisualStudio.TestPlatform.Client.DesignMode.DesignModeTestHostLauncher
+   Settingsxml=<RunSettings>
+  <RunConfiguration>
+    <MaxCpuCount>1</MaxCpuCount>
+    <TestSessionTimeout>9027</TestSessionTimeout>
+    <DisableParallelization>true</DisableParallelization>
+    <DesignMode>false</DesignMode>
+    <BatchSize>1</BatchSize>
+    <TargetFrameworkVersion>.NETCoreApp,Version=v5.0</TargetFrameworkVersion>
+    <TargetPlatform>X64</TargetPlatform>
+    <CollectSourceInformation>True</CollectSourceInformation>
+  </RunConfiguration>
+  <InProcDataCollectionRunSettings>
+    <InProcDataCollectors>
+      <InProcDataCollector friendlyName="StrykerCoverage" uri="https://stryker-mutator.io/" codebase="C:\Users\2104779339\.dotnet\tools\.store\dotnet-stryker\0.22.10\dotnet-stryker\0.22.10\tools\netcoreapp3.1\any\Stryker.DataCollector.dll" assemblyQualifiedName="Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null">
+        <Configuration>
+          <Parameters>
+            <Mutant id="8" tests="e49c0c5f-aeee-881d-ede3-713af97061b1" />
+            <MutantControl name="StrykerpCRFgL51PCcFpYG.MutantControl" />
+          </Parameters>
+        </Configuration>
+      </InProcDataCollector>
+    </InProcDataCollectors>
+  </InProcDataCollectionRunSettings>
+  <LoggerRunSettings>
+    <Loggers>
+      <Logger friendlyName="Console" uri="logger://microsoft/TestPlatform/ConsoleLogger/v1" assemblyQualifiedName="Microsoft.VisualStudio.TestPlatform.CommandLine.Internal.ConsoleLogger, vstest.console, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" codeBase="C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\vstest.console.exe" enabled="True" />
+    </Loggers>
+  </LoggerRunSettings>
+</RunSettings>
+
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:32.403, 51913935898, vstest.console.exe, ProxyParallelExecutionManager: Triggering test run for next source: C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:32.403, 51913936876, vstest.console.exe, TestRunRequest.ExecuteAsync: Started.
+TpTrace Information: 0 : 16752, 9, 2021/09/06, 13:25:32.403, 51913939148, vstest.console.exe, SocketServer.Start: Listening on endpoint : 127.0.0.1:61558
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:32.411, 51914017457, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.CustomTestHostLaunchCallback) -> {
+  "HostProcessId": 18796,
+  "ErrorMessage": null
+}
+TpTrace Information: 0 : 16752, 9, 2021/09/06, 13:25:32.775, 51917658000, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:32.788, 51917793525, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:33.002, 51919933876, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace InformationTpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:33.493, 51924838750, vstest.console.exe, TestRunRequest:SendTestRunMeTpTrace InformationTpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:33.571, 51925617307, vstest.console.exe, TestRunRequest:SendTestRunStatsCTpTrace InformationTpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:33.607, 51925982285, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:33.609, 51925995725, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:33.610, 51926010190, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:33.614, 51926049937, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:33.614, 51926053552, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:33.636, 51926266849, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:33.642, 51926325949, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Warning: 0 : 21880, 11, 2021/09/06, 13:25:33.754, 51927444913, vstest.console.exe, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:33.754, 51927452083, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:33.755, 51927463538, vstest.console.exe, TestRunRequest:TestRunComplete: Completed.
+TpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:33.755, 51927464407, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:61557
+TpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:33.756, 51927464956, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 21880, 12, 2021/09/06, 13:25:33.756, 51927464968, vstest.console.exe, TestRunRequest.Dispose: Completed.
+TpTrace Information: 0 : 21880, 12, 2021/09/06, 13:25:33.756, 51927466198, vstest.console.exe, TestRequestManager.RunTests: run tests completed.
+TpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:33.756, 51927465425, vstest.console.exe, SocketServer.PrivateStop: Stop server endPoint: 127.0.0.1:61557 error: 
+TpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:33.756, 51927469785, vstest.console.exe, SocketServer.Stop: Raise disconnected event endPoint: 127.0.0.1:61557 error: 
+TpTrace Information: 0 : 21880, 4, 2021/09/06, 13:25:33.783, 51927737895, vstest.console.exe, TestHostManagerCallbacks.ExitCallBack: Testhost processId: 15244 exited with exitcode: 0 error: ''
+TpTrace Information: 0 : 21880, 1, 2021/09/06, 13:25:38.630, 51976205316, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.GetTestRunnerProcessStartInfoForRunSelected) -> {
+  "Sources": null,
+  "TestCases": [
+    {
+      "Id": "e49c0c5f-aeee-881d-ede3-713af97061b1",
+      "FullyQualifiedName": "Test.Tests.QuandoPassarSku_DeveCalcularFrete",
+      "DisplayName": "Test.Tests.QuandoPassarSku_DeveCalcularFrete",
+      "ExecutorUri": "executor://xunit/VsTestRunner2/netcoreapp",
+      "Source": "C:\\repos\\mutantes\\test\\bin\\Debug\\net5.0\\Test.dll",
+      "CodeFilePath": "C:\\repos\\mutantes\\test\\Tests.cs",
+      "LineNumber": 11,
+      "Properties": [
+        {
+          "Key": {
+            "Id": "XunitTestCase",
+            "Label": "xUnit.net Test Case",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": ":F:Test.Tests:QuandoPassarSku_DeveCalcularFrete:1:0:21063f4de59b4170b07b21f1ce764cf3"
+        }
+      ]
+    }
+  ],
+  "RunSettings": "<RunSettings>\r\n <RunConfiguration>\r\n\r\n  <MaxCpuCount>1</MaxCpuCount>\r\n<TestSessionTimeout>9027</TestSessionTimeout>\r\n\r\n<DisableParallelization>true</DisableParallelization>\r\n<DesignMode>false</DesignMode>\r\n<BatchSize>1</BatchSize>\r\n </RunConfiguration>\r\n<InProcDataCollectionRunSettings><InProcDataCollectors><InProcDataCollector friendlyName=\"StrykerCoverage\" uri=\"https://stryker-mutator.io/\" codebase=\"C:\\Users\\2104779339\\.dotnet\\tools\\.store\\dotnet-stryker\\0.22.10\\dotnet-stryker\\0.22.10\\tools\\netcoreapp3.1\\any\\Stryker.DataCollector.dll\" assemblyQualifiedName=\"Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null\">\r\n<Configuration><Parameters><Mutant id='14' tests='e49c0c5f-aeee-881d-ede3-713af97061b1'/><MutantControl  name='StrykerpCRFgL51PCcFpYG.MutantControl'/></Parameters></Configuration></InProcDataCollector></InProcDataCollectors></InProcDataCollectionRunSettings>\r\n</RunSettings>",
+  "KeepAlive": false,
+  "DebuggingEnabled": false,
+  "TestPlatformOptions": null,
+  "TestSessionInfo": null
+}
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:38.631, 51976208678, vstest.console.exe, TestRequestManager.RunTests: run tests started.
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:38.631, 51976212908, vstest.console.exe, AssemblyMetadataProvider.GetFrameWork: Determined framework:'.NETCoreApp,Version=v5.0' for source: 'C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll'
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:38.631, 51976214086, vstest.console.exe, Determined framework for all sources: .NETCoreApp,Version=v5.0
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:38.632, 51976221360, vstest.console.exe, AssemblyMetadataProvider.GetArchitecture: Determined architecture:AnyCPU info for assembly: C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:38.632, 51976222405, vstest.console.exe, Determined platform for all sources: X64
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:38.632, 51976223048, vstest.console.exe, Compatible sources list : 
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:38.632, 51976223498, vstest.console.exe, C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:38.632, 51976224948, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:38.633, 51976228178, vstest.console.exe, AssemblyResolver.OnResolve: MicrosTpTrace Information: 0 : 16752, 12, 2021/09/06, 13:25:38.633, 51976229121, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral: Resolving assembly.
+TpTrace Information: 0 : 16752, 12, 2021/09/06, 13:25:38.633, 51976229866, vstest.console.exeTpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:38.633, 51976230328, vstest.console.exe, Failed to create newly implemented FTpTrace Information: 0 : 16752, 12, 2021/09/06, 13:25:38.633, 51976232049, vstest.console.exe, Failed to create newly implemented Fakes Configurator. Reason:System.IO.FileNotFoundException: Não foi possível carregar arquivo ou assembly 'Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral' ou uma de suas dependências. O sistema não pode encontrar o arquivo especificado.
+Nome do arquivo: 'Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral'
+   em System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   em System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   em System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   em System.Reflection.Assembly.Load(AssemblyName assemblyRef)
+   em Microsoft.VisualStudio.TestPlatform.Common.Utilities.FakesUtilities.TryGetFakesCrossPlatformDataCollectorConfigurator()
+
+AVI: o log de associações de assembly está desativado.
+Para ativar o log de  falhas de assembly, defina o valor do Registro [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) como 1.
+Observação: há alguma penalidade para o desempenho associada ao log de falha de TpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:38.634, 51976239826, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsTpTrace Information: 0 : 16752, 12, 2021/09/06, 13:25:38.634, 51976243573, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 16752, 12, 2021/09/06, 13:25:38.634, 51976246565, vstest.console.exe, TestRunRequest.ExecuteAsync: Starting run with settings:TestRunCriteria:
+   KeepAlive=False,FrequencyOfRunStatsChangeEvent=1,RunStatsChangeEventTimeout=00:00:01.5000000,TestCaseFilter=,TestExecutorLauncher=Microsoft.VisualStudio.TestPlatform.Client.DesignMode.DesignModeTestHostLauncher
+   Settingsxml=<RunSettings>
+  <RunConfiguration>
+    <MaxCpuCount>1</MaxCpuCount>
+    <TestSessionTimeout>9027</TestSessionTimeout>
+    <DisableParallelization>true</DisableParallelization>
+    <DesignMode>false</DesignMode>
+    <BatchSize>1</BatchSize>
+    <TargetFrameworkVersion>.NETCoreApp,Version=v5.0</TargetFrameworkVersion>
+    <TargetPlatform>X64</TargetPlatform>
+    <CollectSourceInformation>True</CollectSourceInformation>
+  </RunConfiguration>
+  <InProcDataCollectionRunSettings>
+    <InProcDataCollectors>
+      <InProcDataCollector friendlyName="StrykerCoverage" uri="https://stryker-mutator.io/" codebase="C:\Users\2104779339\.dotnet\tools\.store\dotnet-stryker\0.22.10\dotnet-stryker\0.22.10\tools\netcoreapp3.1\any\Stryker.DataCollector.dll" assemblyQualifiedName="Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null">
+        <Configuration>
+          <Parameters>
+            <Mutant id="9" tests="e49c0c5f-aeee-881d-ede3-713af97061b1" />
+            <MutantControl name="StrykerpCRFgL51PCcFpYG.MutantControl" />
+          </Parameters>
+        </Configuration>
+      </InProcDataCollector>
+    </InProcDataCollectors>
+  </InProcDataCollectionRunSettings>
+  <LoggerRunSettings>
+    <Loggers>
+      <Logger friendlyName="Console" uri="logger://microsoft/TestPlatform/ConsoleLogger/v1" assemblyQualifiedName="Microsoft.VisualStudio.TestPlatform.CommandLine.Internal.ConsoleLogger, vstest.console, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" codeBase="C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\vstest.console.exe" enabled="True" />
+    </Loggers>
+  </LoggerRunSettings>
+</RunSettings>
+
+TpTrace Information: 0 : 16752, 12, 2021/09/06, 13:25:38.635, 51976248247, vstest.console.exe, ProxyParallelExecutionManager: Triggering test run for next source: C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 16752, 12, 2021/09/06, 13:25:38.635, 51976249096, vstest.console.exe, TestRunRequest.ExecuteAsync: Started.
+TpTrace Information: 0TpTrace Information: 0 : 21880, 1, 2021/09/06, 13:25:38.649, 51976394248, vstest.console.exe, DesignModeClient.ProcessRequests: ProcesTpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:38.657, 51976469927, vstest.console.exe, DesignModeClient.ProcessTpTrace Information: 0 : 21880, 12, 2021/09/06, 13:25:39.060, 51980500135, vstest.console.exe, TestRunRequest:SendTestRunMessage: ComplTpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:39.084, 51980744995, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTraceTpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:39.273, 51982636201, vstest.console.exe, TestRunRequest:SendTestRunMessage: CompTpTrace TpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:39.713, 51987030337, vstest.console.exe, TestRunRequest:SendTestRunMessage: ComTpTrace ITpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:39.794, 51987842971, vstest.console.exe, TestRunRequest:SendTestRunStatsChangeTpTrace InformTpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:39.835, 51988251388, vstest.console.exe, TestRunRequest:SendTestRunStatsChangTpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:39.852, 51988417725, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace InformatTpTrace Warning: 0 : 21880, 9, 2021/09/06, 13:25:39.958, 51989482832, vstest.console.exe, TestRunRequest.SendTestRunMessage: Ignoring as the object is disposed.
+TpTrace Warning: 0 : 21880, 9, 2021/09/06, 13:25:39.958, 51989486121, vstest.console.exe, Ignoring TestRunRequest.Abort() as testRunRequest object has already been disposed
+TpTrace Warning: 0 : 21880, 11, 2021/09/06, 13:25:39.959, 51989487143, vstest.console.exe, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:39.959, 51989493453, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:39.960, 51989504015, vstest.console.exe, TestRunRequest:TestRunComplete: Completed.
+TpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:39.960, 51989505398, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:61565
+TpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:39.960, 51989506111, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 21880, 11, 2021/09/06, 13:25:39.960, 51989506801, vstest.console.exe, SocketServer.PrivateStop: Stop server endPoint: 127.0.0.1:61565 error: 
+TpTrace Information: 0 : 21TpTrace Warning: 0 : 16752, 6, 2021/09/06, 13:25:40.000, 51989897210, vstest.console.exe, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:40.000, 51989904685, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:40.003, 51989932749, vstest.console.exe, TestRunRequest:TestRunComplete: Completed.
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:40.003, 51989935110, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.GetTestRunnerProcessStartInfoForRunSelected) -> {
+  "Sources": null,
+  "TestCases": [
+    {
+      "Id": "e49c0c5f-aeee-881d-ede3-713af97061b1",
+      "FullyQualifiedName": "Test.Tests.QuandoPassarSku_DeveCalcularFrete",
+      "DisplayName": "Test.Tests.QuandoPassarSku_DeveCalcularFrete",
+      "ExecutorUri": "executor://xunit/VsTestRunner2/netcoreapp",
+      "Source": "C:\\repos\\mutantes\\test\\bin\\Debug\\net5.0\\Test.dll",
+      "CodeFilePath": "C:\\repos\\mutantes\\test\\Tests.cs",
+      "LineNumber": 11,
+      "Properties": [
+        {
+          "Key": {
+            "Id": "XunitTestCase",
+            "Label": "xUnit.net Test Case",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": ":F:Test.Tests:QuandoPassarSku_DeveCalcularFrete:1:0:21063f4de59b4170b07b21f1ce764cf3"
+        }
+      ]
+    }
+  ],
+  "RunSettings": "<RunSettings>\r\n <RunConfiguration>\r\n\r\n  <MaxCpuCount>1</MaxCpuCount>\r\n<TestSessionTimeout>9027</TestSessionTimeout>\r\n\r\n<DisableParallelization>true</DisableParallelization>\r\n<DesignMode>false</DesignMode>\r\n<BatchSize>1</BatchSize>\r\n </RunConfiguration>\r\n<InProcDataCollectionRunSettings><InProcDataCollectors><InProcDataCollector friendlyName=\"StrykerCoverage\" uri=\"https://stryker-mutator.io/\" codebase=\"C:\\Users\\2104779339\\.dotnet\\tools\\.store\\dotnet-stryker\\0.22.10\\dotnet-stryker\\0.22.10\\tools\\netcoreapp3.1\\any\\Stryker.DataCollector.dll\" assemblyQualifiedName=\"Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null\">\r\n<Configuration><Parameters><Mutant id='10' tests='e49c0c5f-aeee-881d-ede3-713af97061b1'/><MutantControl  name='StrykerpCRFgL51PCcFpYG.MutantControl'/></Parameters></Configuration></InProcDataCollector></InProcDataCollectors></InProcDataCollectionRunSettings>\r\n</RunSettings>",
+  "KeepAlive": false,
+  "DebuggingEnabled": false,
+  "TestPlatformOptions": null,
+  "TestSessionInfo": null
+}
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:40.005, 51989948293, vstest.console.exe, TestRequestManager.RunTests: run tests started.
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:40.005, 51989952286, vstest.console.exe, AssemblyMetadataProvider.GetFrameWork: Determined framework:'.NETCoreApp,Version=v5.0' for source: 'C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll'
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:40.005, 51989953493, vstest.console.exe, Determined framework for all sources: .NETCoreApp,Version=v5.0
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:40.006, 51989960334, vstest.console.exe, AssemblyMetadataProvider.GetArchitecture: Determined architecture:AnyCPU info for assembly: C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:40.006, 51989961609, vstest.console.exe, Determined platform for all sources: X64
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:40.006, 51989962580, vstest.console.exe, Compatible sources list : 
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:40.006, 51989963196, vstest.console.exe, C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:40.006, 51989966137, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:40.007, 51989971096, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral: Resolving assembly.
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:40.007, 51989971954, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral: Resolved from cache.
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:40.016, 51990063754, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:61566
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:40.016, 51990065538, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:40.016, 51990066310, vstest.console.exe, SocketServer.PrivateStop: Stop server endPoint: 127.0.0.1:61566 error: 
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:40.016, 51990063877, vstest.console.exe, Failed to create newly implemented Fakes Configurator. Reason:System.IO.FileNotFoundException: Não foi possível carregar arquivo ou assembly 'Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral' ou uma de suas dependências. O sistema não pode encontrar o arquivo especificado.
+Nome do arquivo: 'Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral'
+   em System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   em System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   em System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   em System.Reflection.Assembly.Load(AssemblyName assemblyRef)
+   em Microsoft.VisualStudio.TestPlatform.Common.Utilities.FakesUtilities.TryGetFakesCrossPlatformDataCollectorConfigurator()
+
+AVI: o log de associações de assembly está desativado.
+Para ativar o log de  falhas de assembly, defina o valor do Registro [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) como 1.
+Observação: há alguma penalidade para o desempenho associada ao log de falha de associação de assembly.
+Para desativar esse recurso, remova o valor do Registro [HKLM\Software\Microsoft\Fusion!EnableLog].
+ 
+TpTrace Information: 0 : 16752, 6, 2021/09/06, 13:25:40.017, 51990068979, vstest.console.exe, SocketServer.Stop: Raise disconnected event endPoint: 127.0.0.1:61566 error: 
+TpTrace Information: 0 : 16752, 12, 2021/09/06, 13:25:40.018, 51990078299, vstest.console.exe, TestRunRequest.Dispose: Completed.
+TpTrace Information: 0 : 16752, 12, 2021/09/06, 13:25:40.018, 51990079301, vstest.console.exe, TestRequestManager.RunTests: run tests completed.
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:40.019, 51990093334, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:40.020, 51990097265, vstest.console.exe, TestRunRequest.ExecuteAsync: Starting run with settings:TestRunCriteria:
+   KeepAlive=False,FrequencyOfRunStatsChangeEvent=1,RunStatsChangeEventTimeout=00:00:01.5000000,TestCaseFilter=,TestExecutorLauncher=Microsoft.VisualStudio.TestPlatform.Client.DesignMode.DesignModeTestHostLauncher
+   Settingsxml=<RunSettings>
+  <RunConfiguration>
+    <MaxCpuCount>1</MaxCpuCount>
+    <TestSessionTimeout>9027</TestSessionTimeout>
+    <DisableParallelization>true</DisableParallelization>
+    <DesignMode>false</DesignMode>
+    <BatchSize>1</BatchSize>
+    <TargetFrameworkVersion>.NETCoreApp,Version=v5.0</TargetFrameworkVersion>
+    <TargetPlatform>X64</TargetPlatform>
+    <CollectSourceInformation>True</CollectSourceInformation>
+  </RunConfiguration>
+  <InProcDataCollectionRunSettings>
+    <InProcDataCollectors>
+      <InProcDataCollector friendlyName="StrykerCoverage" uri="https://stryker-mutator.io/" codebase="C:\Users\2104779339\.dotnet\tools\.store\dotnet-stryker\0.22.10\dotnet-stryker\0.22.10\tools\netcoreapp3.1\any\Stryker.DataCollector.dll" assemblyQualifiedName="Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null">
+        <Configuration>
+          <Parameters>
+            <Mutant id="10" tests="e49c0c5f-aeee-881d-ede3-713af97061b1" />
+            <MutantControl name="StrykerpCRFgL51PCcFpYG.MutantControl" />
+          </Parameters>
+        </Configuration>
+      </InProcDataCollector>
+    </InProcDataCollectors>
+  </InProcDataCollectionRunSettings>
+  <LoggerRunSettings>
+    <Loggers>
+      <Logger friendlyName="Console" uri="logger://microsoft/TestPlatform/ConsoleLogger/v1" assemblyQualifiedName="Microsoft.VisualStudio.TestPlatform.CommandLine.Internal.ConsoleLogger, vstest.console, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" codeBase="C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\vstest.console.exe" enabled="True" />
+    </Loggers>
+  </LoggerRunSettingTpTrace Information: 0 : 21880, 6, 2021/09/06, 13:25:40.359, 51993492362, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 21880, 7, 2021/09/06, 13:25:40.368, 51993580094, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 21880, 7, 2021/09/06, 13:25:40.585, 51995749003, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 21880, 7, 2021/09/06, 13:25:41.002, 51999923971, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 21880, 7, 2021/09/06, 13:25:41.082, 52000720893, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 21880, 7, 2021/09/06, 13:25:41.118, 52001084523, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 21880, 7, 2021/09/06, 13:25:41.120, 52001098737, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 21880, 7, 2021/09/06, 13:25:41.121, 52001113721, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 21880, 7, 2021/09/06, 13:25:41.124, 52001141568, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 21880, 7, 2021/09/06, 13:25:41.125, 52001147028, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 21880, 7, 2021/09/06, 13:25:41.142, 52001323145, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 21880, 7, 2021/09/06, 13:25:41.149, 52001394374, vstest.console.exe, TestRunRequest:SendTestRunMeTpTrace InformationTpTrace Warning: 0 : 21880, 7, 2021/09/06, 13:25:41.265, 52002547755, vstest.console.exe, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Information: 0 : 21880, 7, 2021/09/06, 13:25:41.265, 52002553139, vstest.consoleTpTrace Warning: 0 : 16752, 9, 2021/09/06, 13:25:41.311, 52003007182, vstest.console.exe, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Information: 0 : 16752, 9, 2021/09/06, 13:25:41.311, 52003011597, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 16752, 9, 2021/09/06, 13:25:41.312, 52003021053, vstest.console.exe, TestRunRequest:TestRunComplete: Completed.
+TpTrace Information: 0 : 16752, 9, 2021/09/06, 13:25:41.312, 52003022388, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:61575
+TpTrace Information: 0 : 16752, 9, 2021/09/06, 13:25:41.312, 52003023017, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 16752, 9, 2021/09/06, 13:25:41.312, 52003023657, vstest.console.exe, SocketServer.PrivateStop: Stop server endPoint: 127.0.0.1:61575 error: 
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:25:41.312, 52003024061, vstest.console.exe, TestRunRequest.Dispose: Completed.
+TpTrace Information: 0 : 16752, 11, 2021/09/06, 13:2TpTrace Information: 0 : 21880, 15, 2021/09/06, 13:25:41.316, 52003059584, vstest.console.exe, TestHostManagerCallbacks.ExitCallBack: Testhost processId: 1476 exited with exitcode: 0 error: ''
+TpTrace Warning: 0 : 21880, 9, 2021/09/06, 13:25:41.395, 52003848260, vstest.console.exe, TestRunRequest.SendTestRunMessage: Ignoring as the object is disposed.
+TpTrace Warning: 0 : 21880, 9, 2021/09/06, 13:25:41.395, 52003849861, vstest.console.exe, Ignoring TestRunTpTrace Warning: 0 : 16752, 7, 2021/09/06, 13:25:41.437, 52004268427TpTrace Information: 0 : 21880, 1, 2021/09/06, 13:25:41.546, 52005362414, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestSession.Terminate) -> null
+TpTrace Information: 0 : 21880, 1, 2021/09/06, 13:25:41.546, 52005363573, vstest.console.exe, DesignModeClient: Session End message received from server. Closing the connection.
+, DesignModeClient.ProcessRequests: Processing Message: (TestSession.Terminate) -> null
+TpTrace Information: 0 : 16752, 1, 2021/09/06, 13:25:41.439, 52004296077, vstest.console.exe, DesignModeClient: Session End message received from server. Closing the connection.
+428, 11, 2021/09/06, 13:25:41.191, 52001816695, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Warning: 0 : 23428, 11, 2021/09/06, 13:25:41.308, 52002977263, vstest.console.exe, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Information: 0 : 23428, 11, 2021/09/06, 13:25:41.308, 52002983945, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 23428, 11, 2021/09/06, 13:25:41.310, 52002998571, vstest.console.exe, TestRunRequest:TestRunComplete: Completed.
+TpTrace Information: 0 : 23428, 11, 2021/09/06, 13:25:41.310, 52002999738, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:61573
+TpTrace Information: 0 : 23428, 11, 2021/09/06, 13:25:41.310, 52003000253, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 23428, 11, 2021/09/06, 13:25:41.310, 52003000754, vstest.console.exe, SocketServer.PrivateStop: Stop server endPoint: 127.0.0.1:61573 error: 
+TpTrace Information: 0 : 23428, 9, 2021/09/06, 13:25:41.310, 52003001586, vstest.console.exe, TestRunRequest.Dispose: Completed.
+TpTrace Information: 0 : 23428, 9, 2021/09/06, 13:25:41.310, 52003002381, vstest.console.exe, TestRequestManager.RunTests: run tests completed.
+TpTrace Information: 0 : 23428, 11, 2021/09/06, 13:25:41.310, 52003002682, vstest.console.exe, SocketServer.Stop: Raise disconnected event endPoint: 127.0.0.1:61573 error: 
+TpTrace Information: 0 : 23428, 1, 2021/09/06, 13:25:41.313, 52003029414, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestSession.Terminate) -> null
+TpTrace Information: 0 : 23428, 1, 2021/09/06, 13:25:41.313, 52003030622, vstest.console.exe, DesignModeClient: Session End message received from server. Closing the connection.
+un for next source: C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 22596, 6, 2021/09/06, 13:25:31.959, 51909495454, vstest.console.exe, TestRunRequest.ExecuteAsync: Started.
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:31.959, 51909497773, vstest.console.exe, SocketServer.Start: Listening on endpoint : 127.0.0.1:61554
+TpTrace Information: 0 : 22596, 1, 2021/09/06, 13:25:31.968, 51909585722, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.CustomTestHostLaunchCallback) -> {
+  "HostProcessId": 22380,
+  "ErrorMessage": null
+}
+TpTrace Information: 0 : 22596, 4, 2021/09/06, 13:25:31.985, 51909763229, vstest.console.exe, TestHostManagerCallbacks.ExitCallBack: Testhost processId: 20708 exited with exitcode: 0 error: ''
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:32.391, 51913816774, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:32.403, 51913937641, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:32.607, 51915980868, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:33.050, 51920406106, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:33.134, 51921249382, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:33.175, 51921663927, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:33.182, 51921727447, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Warning: 0 : 22596, 10, 2021/09/06, 13:25:33.295, 51922854768, vstest.console.exe, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:33.295, 51922860162, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:33.296, 51922868220, vstest.console.exe, TestRunRequest:TestRunComplete: Completed.
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:33.296, 51922868984, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:61554
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:33.296, 51922869448, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:33.296, 51922869909, vstest.console.exe, SocketServer.PrivateStop: Stop server endPoint: 127.0.0.1:61554 error: 
+TpTrace Information: 0 : 22596, 6, 2021/09/06, 13:25:33.296, 51922869399, vstest.console.exe, TestRunRequest.Dispose: Completed.
+TpTrace Information: 0 : 22596, 6, 2021/09/06, 13:25:33.296, 51922871261, vstest.console.exe, TestRequestManager.RunTests: run tests completed.
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:33.296, 51922871469, vstest.console.exe, SocketServer.Stop: Raise disconnected event endPoint: 127.0.0.1:61554 error: 
+TpTrace Information: 0 : 22596, 4, 2021/09/06, 13:25:33.335, 51923256281, vstest.console.exe, TestHostManagerCallbacks.ExitCallBack: Testhost processId: 22380 exited with exitcode: 0 error: ''
+TpTrace Information: 0 : 22596, 1, 2021/09/06, 13:25:37.637, 51966273946, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.GetTestRunnerProcessStartInfoForRunSelected) -> {
+  "Sources": null,
+  "TestCases": [
+    {
+      "Id": "e49c0c5f-aeee-881d-ede3-713af97061b1",
+      "FullyQualifiedName": "Test.Tests.QuandoPassarSku_DeveCalcularFrete",
+      "DisplayName": "Test.Tests.QuandoPassarSku_DeveCalcularFrete",
+      "ExecutorUri": "executor://xunit/VsTestRunner2/netcoreapp",
+      "Source": "C:\\repos\\mutantes\\test\\bin\\Debug\\net5.0\\Test.dll",
+      "CodeFilePath": "C:\\repos\\mutantes\\test\\Tests.cs",
+      "LineNumber": 11,
+      "Properties": [
+        {
+          "Key": {
+            "Id": "XunitTestCase",
+            "Label": "xUnit.net Test Case",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": ":F:Test.Tests:QuandoPassarSku_DeveCalcularFrete:1:0:21063f4de59b4170b07b21f1ce764cf3"
+        }
+      ]
+    }
+  ],
+  "RunSettings": "<RunSettings>\r\n <RunConfiguration>\r\n\r\n  <MaxCpuCount>1</MaxCpuCount>\r\n<TestSessionTimeout>9027</TestSessionTimeout>\r\n\r\n<DisableParallelization>true</DisableParallelization>\r\n<DesignMode>false</DesignMode>\r\n<BatchSize>1</BatchSize>\r\n </RunConfiguration>\r\n<InProcDataCollectionRunSettings><InProcDataCollectors><InProcDataCollector friendlyName=\"StrykerCoverage\" uri=\"https://stryker-mutator.io/\" codebase=\"C:\\Users\\2104779339\\.dotnet\\tools\\.store\\dotnet-stryker\\0.22.10\\dotnet-stryker\\0.22.10\\tools\\netcoreapp3.1\\any\\Stryker.DataCollector.dll\" assemblyQualifiedName=\"Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null\">\r\n<Configuration><Parameters><Mutant id='2' tests='e49c0c5f-aeee-881d-ede3-713af97061b1'/><MutantControl  name='StrykerpCRFgL51PCcFpYG.MutantControl'/></Parameters></Configuration></InProcDataCollector></InProcDataCollectors></InProcDataCollectionRunSettings>\r\n</RunSettings>",
+  "KeepAlive": false,
+  "DebuggingEnabled": false,
+  "TestPlatformOptions": null,
+  "TestSessionInfo": null
+}
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:37.637, 51966276462, vstest.console.exe, TestRequestManager.RunTests: run tests started.
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:37.638, 51966280746, vstest.console.exe, AssemblyMetadataProvider.GetFrameWork: Determined framework:'.NETCoreApp,Version=v5.0' for source: 'C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll'
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:37.638, 51966282059, vstest.console.exe, Determined framework for all sources: .NETCoreApp,Version=v5.0
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:37.639, 51966289206, vstest.console.exe, AssemblyMetadataProvider.GetArchitecture: Determined architecture:AnyCPU info for assembly: C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:37.639, 51966289823, vstest.console.exe, Determined platform for all sources: X64
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:37.639, 51966290404, vstest.console.exe, Compatible sources list : 
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:37.639, 51966290825, vstest.console.exe, C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:37.639, 51966292381, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:37.639, 51966296343, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral: Resolving assembly.
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:37.639, 51966297122, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral: Resolved from cache.
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:37.640, 51966300499, vstest.console.exe, Failed to create newly implemented Fakes Configurator. Reason:System.IO.FileNotFoundException: Não foi possível carregar arquivo ou assembly 'Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral' ou uma de suas dependências. O sistema não pode encontrar o arquivo especificado.
+Nome do arquivo: 'Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral'
+   em System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   em System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   em System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   em System.Reflection.Assembly.Load(AssemblyName assemblyRef)
+   em Microsoft.VisualStudio.TestPlatform.Common.Utilities.FakesUtilities.TryGetFakesCrossPlatformDataCollectorConfigurator()
+
+AVI: o log de associações de assembly está desativado.
+Para ativar o log de  falhas de assembly, defina o valor do Registro [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) como 1.
+Observação: há alguma penalidade para o desempenho associada ao log de falha de associação de assembly.
+Para desativar esse recurso, remova o valor do Registro [HKLM\Software\Microsoft\Fusion!EnableLog].
+ 
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:37.641, 51966312978, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:37.641, 51966315116, vstest.console.exe, TestRunRequest.ExecuteAsync: Starting run with settings:TestRunCriteria:
+   KeepAlive=False,FrequencyOfRunStatsChangeEvent=1,RunStatsChangeEventTimeout=00:00:01.5000000,TestCaseFilter=,TestExecutorLauncher=Microsoft.VisualStudio.TestPlatform.Client.DesignMode.DesignModeTestHostLauncher
+   Settingsxml=<RunSettings>
+  <RunConfiguration>
+    <MaxCpuCount>1</MaxCpuCount>
+    <TestSessionTimeout>9027</TestSessionTimeout>
+    <DisableParallelization>true</DisableParallelization>
+    <DesignMode>false</DesignMode>
+    <BatchSize>1</BatchSize>
+    <TargetFrameworkVersion>.NETCoreApp,Version=v5.0</TargetFrameworkVersion>
+    <TargetPlatform>X64</TargetPlatform>
+    <CollectSourceInformation>True</CollectSourceInformation>
+  </RunConfiguration>
+  <InProcDataCollectionRunSettings>
+    <InProcDataCollectors>
+      <InProcDataCollector friendlyName="StrykerCoverage" uri="https://stryker-mutator.io/" codebase="C:\Users\2104779339\.dotnet\tools\.store\dotnet-stryker\0.22.10\dotnet-stryker\0.22.10\tools\netcoreapp3.1\any\Stryker.DataCollector.dll" assemblyQualifiedName="Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null">
+        <Configuration>
+          <Parameters>
+            <Mutant id="2" tests="e49c0c5f-aeee-881d-ede3-713af97061b1" />
+            <MutantControl name="StrykerpCRFgL51PCcFpYG.MutantControl" />
+          </Parameters>
+        </Configuration>
+      </InProcDataCollector>
+    </InProcDataCollectors>
+  </InProcDataCollectionRunSettings>
+  <LoggerRunSettings>
+    <Loggers>
+      <Logger friendlyName="Console" uri="logger://microsoft/TestPlatform/ConsoleLogger/v1" assemblyQualifiedName="Microsoft.VisualStudio.TestPlatform.CommandLine.Internal.ConsoleLogger, vstest.console, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" codeBase="C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\vstest.console.exe" enabled="True" />
+    </Loggers>
+  </LoggerRunSettings>
+</RunSettings>
+
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:37.641, 51966316199, vstest.console.exe, ProxyParallelExecutionManager: Triggering test run for next source: C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:37.641, 51966316753, vstest.console.exe, TestRunRequest.ExecuteAsync: Started.
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:37.642, 51966318860, vstest.console.exe, SocketServer.Start: Listening on endpoint : 127.0.0.1:61562
+TpTrace Information: 0 : 22596, 1, 2021/09/06, 13:25:38.637, 51976266959, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.CustomTestHostLaunchCallback) -> {
+  "HostProcessId": 22588,
+  "ErrorMessage": null
+}
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:39.002, 51979923991, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 22596, 9, 2021/09/06, 13:25:39.015, 51980054620, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 22596, 9, 2021/09/06, 13:25:39.230, 51982199880, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 22596, 9, 2021/09/06, 13:25:39.654, 51986441459, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Warning: 0 : 22596, 11, 2021/09/06, 13:25:39.687, 51986767797, vstest.console.exe, TestRunRequest.SendTestRunMessage: Ignoring as the object is disposed.
+TpTrace Warning: 0 : 22596, 11, 2021/09/06, 13:25:39.687, 51986772261, vstest.console.exe, Ignoring TestRunRequest.Abort() as testRunRequest object has already been disposed
+TpTrace Information: 0 : 22596, 9, 2021/09/06, 13:25:39.729, 51987189822, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 22596, 9, 2021/09/06, 13:25:39.773, 51987636382, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 22596, 9, 2021/09/06, 13:25:39.780, 51987698422, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Warning: 0 : 22596, 9, 2021/09/06, 13:25:39.896, 51988857272, vstest.console.exe, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Information: 0 : 22596, 9, 2021/09/06, 13:25:39.896, 51988864191, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 22596, 9, 2021/09/06, 13:25:39.897, 51988875092, vstest.console.exe, TestRunRequest:TestRunComplete: Completed.
+TpTrace Information: 0 : 22596, 9, 2021/09/06, 13:25:39.897, 51988876528, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:61562
+TpTrace Information: 0 : 22596, 9, 2021/09/06, 13:25:39.898, 51988877299, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 22596, 9, 2021/09/06, 13:25:39.898, 51988877956, vstest.console.exe, SocketServer.PrivateStop: Stop server endPoint: 127.0.0.1:61562 error: 
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:39.898, 51988878398, vstest.console.exe, TestRunRequest.Dispose: Completed.
+TpTrace Information: 0 : 22596, 7, 2021/09/06, 13:25:39.898, 51988879398, vstest.console.exe, TestRequestManager.RunTests: run tests completed.
+TpTrace Information: 0 : 22596, 9, 2021/09/06, 13:25:39.898, 51988880239, vstest.console.exe, SocketServer.Stop: Raise disconnected event endPoint: 127.0.0.1:61562 error: 
+TpTrace Information: 0 : 22596, 1, 2021/09/06, 13:25:39.929, 51989187969, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.GetTestRunnerProcessStartInfoForRunSelected) -> {
+  "Sources": null,
+  "TestCases": [
+    {
+      "Id": "e49c0c5f-aeee-881d-ede3-713af97061b1",
+      "FullyQualifiedName": "Test.Tests.QuandoPassarSku_DeveCalcularFrete",
+      "DisplayName": "Test.Tests.QuandoPassarSku_DeveCalcularFrete",
+      "ExecutorUri": "executor://xunit/VsTestRunner2/netcoreapp",
+      "Source": "C:\\repos\\mutantes\\test\\bin\\Debug\\net5.0\\Test.dll",
+      "CodeFilePath": "C:\\repos\\mutantes\\test\\Tests.cs",
+      "LineNumber": 11,
+      "Properties": [
+        {
+          "Key": {
+            "Id": "XunitTestCase",
+            "Label": "xUnit.net Test Case",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": ":F:Test.Tests:QuandoPassarSku_DeveCalcularFrete:1:0:21063f4de59b4170b07b21f1ce764cf3"
+        }
+      ]
+    }
+  ],
+  "RunSettings": "<RunSettings>\r\n <RunConfiguration>\r\n\r\n  <MaxCpuCount>1</MaxCpuCount>\r\n<TestSessionTimeout>9027</TestSessionTimeout>\r\n\r\n<DisableParallelization>true</DisableParallelization>\r\n<DesignMode>false</DesignMode>\r\n<BatchSize>1</BatchSize>\r\n </RunConfiguration>\r\n<InProcDataCollectionRunSettings><InProcDataCollectors><InProcDataCollector friendlyName=\"StrykerCoverage\" uri=\"https://stryker-mutator.io/\" codebase=\"C:\\Users\\2104779339\\.dotnet\\tools\\.store\\dotnet-stryker\\0.22.10\\dotnet-stryker\\0.22.10\\tools\\netcoreapp3.1\\any\\Stryker.DataCollector.dll\" assemblyQualifiedName=\"Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null\">\r\n<Configuration><Parameters><Mutant id='3' tests='e49c0c5f-aeee-881d-ede3-713af97061b1'/><MutantControl  name='StrykerpCRFgL51PCcFpYG.MutantControl'/></Parameters></Configuration></InProcDataCollector></InProcDataCollectors></InProcDataCollectionRunSettings>\r\n</RunSettings>",
+  "KeepAlive": false,
+  "DebuggingEnabled": false,
+  "TestPlatformOptions": null,
+  "TestSessionInfo": null
+}
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:39.929, 51989190553, vstest.console.exe, TestRequestManager.RunTests: run tests started.
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:39.929, 51989194681, vstest.console.exe, AssemblyMetadataProvider.GetFrameWork: Determined framework:'.NETCoreApp,Version=v5.0' for source: 'C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll'
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:39.929, 51989195896, vstest.console.exe, Determined framework for all sources: .NETCoreApp,Version=v5.0
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:39.930, 51989202912, vstest.console.exe, AssemblyMetadataProvider.GetArchitecture: Determined architecture:AnyCPU info for assembly: C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:39.930, 51989203697, vstest.console.exe, Determined platform for all sources: X64
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:39.930, 51989204416, vstest.console.exe, Compatible sources list : 
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:39.930, 51989204895, vstest.console.exe, C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:39.930, 51989206552, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:39.931, 51989210218, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral: Resolving assembly.
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:39.931, 51989210805, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral: Resolved from cache.
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:39.931, 51989212654, vstest.console.exe, Failed to create newly implemented Fakes Configurator. Reason:System.IO.FileNotFoundException: Não foi possível carregar arquivo ou assembly 'Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral' ou uma de suas dependências. O sistema não pode encontrar o arquivo especificado.
+Nome do arquivo: 'Microsoft.VisualStudio.TestPlatform.Fakes, Version=16.0.0.0, Culture=neutral'
+   em System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   em System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   em System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   em System.Reflection.Assembly.Load(AssemblyName assemblyRef)
+   em Microsoft.VisualStudio.TestPlatform.Common.Utilities.FakesUtilities.TryGetFakesCrossPlatformDataCollectorConfigurator()
+
+AVI: o log de associações de assembly está desativado.
+Para ativar o log de  falhas de assembly, defina o valor do Registro [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) como 1.
+Observação: há alguma penalidade para o desempenho associada ao log de falha de associação de assembly.
+Para desativar esse recurso, remova o valor do Registro [HKLM\Software\Microsoft\Fusion!EnableLog].
+ 
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:39.932, 51989225430, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:39.933, 51989229129, vstest.console.exe, TestRunRequest.ExecuteAsync: Starting run with settings:TestRunCriteria:
+   KeepAlive=False,FrequencyOfRunStatsChangeEvent=1,RunStatsChangeEventTimeout=00:00:01.5000000,TestCaseFilter=,TestExecutorLauncher=Microsoft.VisualStudio.TestPlatform.Client.DesignMode.DesignModeTestHostLauncher
+   Settingsxml=<RunSettings>
+  <RunConfiguration>
+    <MaxCpuCount>1</MaxCpuCount>
+    <TestSessionTimeout>9027</TestSessionTimeout>
+    <DisableParallelization>true</DisableParallelization>
+    <DesignMode>false</DesignMode>
+    <BatchSize>1</BatchSize>
+    <TargetFrameworkVersion>.NETCoreApp,Version=v5.0</TargetFrameworkVersion>
+    <TargetPlatform>X64</TargetPlatform>
+    <CollectSourceInformation>True</CollectSourceInformation>
+  </RunConfiguration>
+  <InProcDataCollectionRunSettings>
+    <InProcDataCollectors>
+      <InProcDataCollector friendlyName="StrykerCoverage" uri="https://stryker-mutator.io/" codebase="C:\Users\2104779339\.dotnet\tools\.store\dotnet-stryker\0.22.10\dotnet-stryker\0.22.10\tools\netcoreapp3.1\any\Stryker.DataCollector.dll" assemblyQualifiedName="Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null">
+        <Configuration>
+          <Parameters>
+            <Mutant id="3" tests="e49c0c5f-aeee-881d-ede3-713af97061b1" />
+            <MutantControl name="StrykerpCRFgL51PCcFpYG.MutantControl" />
+          </Parameters>
+        </Configuration>
+      </InProcDataCollector>
+    </InProcDataCollectors>
+  </InProcDataCollectionRunSettings>
+  <LoggerRunSettings>
+    <Loggers>
+      <Logger friendlyName="Console" uri="logger://microsoft/TestPlatform/ConsoleLogger/v1" assemblyQualifiedName="Microsoft.VisualStudio.TestPlatform.CommandLine.Internal.ConsoleLogger, vstest.console, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" codeBase="C:\Users\2104779339\AppData\Local\Temp\f21dydgs.a2r\.vstest\tools\net451\vstest.console.exe" enabled="True" />
+    </Loggers>
+  </LoggerRunSettings>
+</RunSettings>
+
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:39.933, 51989230953, vstest.console.exe, ProxyParallelExecutionManager: Triggering test run for next source: C:\repos\mutantes\test\bin\Debug\net5.0\Test.dll
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:39.933, 51989231701, vstest.console.exe, TestRunRequest.ExecuteAsync: Started.
+TpTrace Information: 0 : 22596, 6, 2021/09/06, 13:25:39.933, 51989234099, vstest.console.exe, SocketServer.Start: Listening on endpoint : 127.0.0.1:61572
+TpTrace Information: 0 : 22596, 12, 2021/09/06, 13:25:39.935, 51989252120, vstest.console.exe, TestHostManagerCallbacks.ExitCallBack: Testhost processId: 22588 exited with exitcode: 0 error: ''
+TpTrace Information: 0 : 22596, 1, 2021/09/06, 13:25:39.943, 51989332354, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.CustomTestHostLaunchCallback) -> {
+  "HostProcessId": 19472,
+  "ErrorMessage": null
+}
+TpTrace Information: 0 : 22596, 6, 2021/09/06, 13:25:40.345, 51993354996, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 22596, 11, 2021/09/06, 13:25:40.356, 51993464211, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 22596, 11, 2021/09/06, 13:25:40.567, 51995567772, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Warning: 0 : 22596, 9, 2021/09/06, 13:25:40.987, 51999769304, vstest.console.exe, TestRunRequest.SendTestRunMessage: Ignoring as the object is disposed.
+TpTrace Warning: 0 : 22596, 9, 2021/09/06, 13:25:40.987, 51999770789, vstest.console.exe, Ignoring TestRunRequest.Abort() as testRunRequest object has already been disposed
+TpTrace Information: 0 : 22596, 11, 2021/09/06, 13:25:40.988, 51999785591, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 22596, 11, 2021/09/06, 13:25:41.072, 52000622075, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 22596, 11, 2021/09/06, 13:25:41.116, 52001064693, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 22596, 11, 2021/09/06, 13:25:41.124, 52001145397, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Warning: 0 : 22596, 11, 2021/09/06, 13:25:41.243, 52002327397, vstest.console.exe, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Information: 0 : 22596, 11, 2021/09/06, 13:25:41.243, 52002334274, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 22596, 11, 2021/09/06, 13:25:41.244, 52002344503, vstest.console.exe, TestRunRequest:TestRunComplete: Completed.
+TpTrace Information: 0 : 22596, 11, 2021/09/06, 13:25:41.244, 52002345704, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:61572
+TpTrace Information: 0 : 22596, 11, 2021/09/06, 13:25:41.244, 52002346294, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 22596, 11, 2021/09/06, 13:25:41.245, 52002346922, vstest.console.exe, SocketServer.PrivateStop: Stop server endPoint: 127.0.0.1:61572 error: 
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:41.245, 52002347699, vstest.console.exe, TestRunRequest.Dispose: Completed.
+TpTrace Information: 0 : 22596, 10, 2021/09/06, 13:25:41.245, 52002348462, vstest.console.exe, TestRequestManager.RunTests: run tests completed.
+TpTrace Information: 0 : 22596, 11, 2021/09/06, 13:25:41.245, 52002348901, vstest.console.exe, SocketServer.Stop: Raise disconnected event endPoint: 127.0.0.1:61572 error: 
+TpTrace Information: 0 : 22596, 12, 2021/09/06, 13:25:41.292, 52002818277, vstest.console.exe, TestHostManagerCallbacks.ExitCallBack: Testhost processId: 19472 exited with exitcode: 0 error: ''
+TpTrace Information: 0 : 22596, 12, 2021/09/06, 13:25:42.965, 52019555088, vstest.console.exe, PortArgumentProcessor: parent process:22036 exited.
+TpTrace Error: 0 : 22596, 1, 2021/09/06, 13:25:42.966, 52019561343, vstest.console.exe, DesignModeClient: Error processing request: System.IO.IOException: Não é possível ler os dados da conexão de transporte: Foi forçado o cancelamento de uma conexão existente pelo host remoto. ---> System.Net.Sockets.SocketException: Foi forçado o cancelamento de uma conexão existente pelo host remoto
+   em System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   em System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   em System.IO.Stream.ReadByte()
+   em System.IO.BinaryReader.ReadByte()
+   em System.IO.BinaryReader.Read7BitEncodedInt()
+   em System.IO.BinaryReader.ReadString()
+   em Microsoft.VisualStudio.TestPlatform.CommunicationUtilities.SocketCommunicationManager.ReceiveRawMessage()
+   em Microsoft.VisualStudio.TestPlatform.CommunicationUtilities.SocketCommunicationManager.ReceiveMessage()
+   em Microsoft.VisualStudio.TestPlatform.Client.DesignMode.DesignModeClient.ProcessRequests(ITestRequestManager testRequestManager)
+TpTrace Information: 0 : 22596, 12, 2021/09/06, 13:25:42.966, 52019563882, vstest.console.exe, DesignModeClient: Parent process exited, Exiting myself..
