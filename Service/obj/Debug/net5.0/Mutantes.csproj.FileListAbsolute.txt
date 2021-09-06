@@ -1,0 +1,16 @@
+C:\Repos\mutantes\Mutantes\bin\Debug\net5.0\Mutantes.exe
+C:\Repos\mutantes\Mutantes\bin\Debug\net5.0\Mutantes.deps.json
+C:\Repos\mutantes\Mutantes\bin\Debug\net5.0\Mutantes.runtimeconfig.json
+C:\Repos\mutantes\Mutantes\bin\Debug\net5.0\Mutantes.runtimeconfig.dev.json
+C:\Repos\mutantes\Mutantes\bin\Debug\net5.0\Mutantes.dll
+C:\Repos\mutantes\Mutantes\bin\Debug\net5.0\ref\Mutantes.dll
+C:\Repos\mutantes\Mutantes\bin\Debug\net5.0\Mutantes.pdb
+C:\Repos\mutantes\Mutantes\obj\Debug\net5.0\Mutantes.csproj.AssemblyReference.cache
+C:\Repos\mutantes\Mutantes\obj\Debug\net5.0\Mutantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\mutantes\Mutantes\obj\Debug\net5.0\Mutantes.AssemblyInfoInputs.cache
+C:\Repos\mutantes\Mutantes\obj\Debug\net5.0\Mutantes.AssemblyInfo.cs
+C:\Repos\mutantes\Mutantes\obj\Debug\net5.0\Mutantes.csproj.CoreCompileInputs.cache
+C:\Repos\mutantes\Mutantes\obj\Debug\net5.0\Mutantes.dll
+C:\Repos\mutantes\Mutantes\obj\Debug\net5.0\ref\Mutantes.dll
+C:\Repos\mutantes\Mutantes\obj\Debug\net5.0\Mutantes.pdb
+C:\Repos\mutantes\Mutantes\obj\Debug\net5.0\Mutantes.genruntimeconfig.cache

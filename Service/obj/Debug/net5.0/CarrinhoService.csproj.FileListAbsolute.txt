@@ -1,0 +1,12 @@
+C:\Repos\mutantes\Service\bin\Debug\net5.0\CarrinhoService.deps.json
+C:\Repos\mutantes\Service\obj\Debug\net5.0\CarrinhoService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\mutantes\Service\obj\Debug\net5.0\CarrinhoService.AssemblyInfoInputs.cache
+C:\Repos\mutantes\Service\obj\Debug\net5.0\CarrinhoService.AssemblyInfo.cs
+C:\Repos\mutantes\Service\bin\Debug\net5.0\CarrinhoService.dll
+C:\Repos\mutantes\Service\bin\Debug\net5.0\ref\CarrinhoService.dll
+C:\Repos\mutantes\Service\bin\Debug\net5.0\CarrinhoService.pdb
+C:\Repos\mutantes\Service\obj\Debug\net5.0\CarrinhoService.csproj.AssemblyReference.cache
+C:\Repos\mutantes\Service\obj\Debug\net5.0\CarrinhoService.csproj.CoreCompileInputs.cache
+C:\Repos\mutantes\Service\obj\Debug\net5.0\CarrinhoService.dll
+C:\Repos\mutantes\Service\obj\Debug\net5.0\ref\CarrinhoService.dll
+C:\Repos\mutantes\Service\obj\Debug\net5.0\CarrinhoService.pdb
